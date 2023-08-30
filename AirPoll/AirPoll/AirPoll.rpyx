@@ -1,0 +1,4153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1250</CODE-PAGE>
+	<version>100.831.0</version>
+	<lang>C++</lang>
+	<BuildNo>9835550</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<IProject type="e">
+			<_id type="a">GUID 73066072-4f00-484d-9e65-78b4dd13cad2</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">AirPoll</_name>
+			<_modifiedTimeWeak type="a">8.30.2023::14:53:22</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.30.2023::14:53:22</_modifiedTime>
+			<_UserColors type="w">
+				<IRPYRawContainer type="e">
+					<size type="a">16</size>
+					<value>16777215</value>
+					<value>16777215</value>
+					<value>16777215</value>
+					<value>16777215</value>
+					<value>16777215</value>
+					<value>16777215</value>
+					<value>16777215</value>
+					<value>16777215</value>
+					<value>16777215</value>
+					<value>16777215</value>
+					<value>16777215</value>
+					<value>16777215</value>
+					<value>16777215</value>
+					<value>16777215</value>
+					<value>16777215</value>
+					<value>16777215</value>
+				</IRPYRawContainer>
+			</_UserColors>
+			<_defaultSubsystem type="r">
+				<ISubsystemHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hname type="a">Default</_hname>
+					<_hid type="a">GUID 11188725-abaf-46cd-9330-a1567f66f187</_hid>
+				</ISubsystemHandle>
+			</_defaultSubsystem>
+			<_component type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IComponent</_hm2Class>
+					<_hname type="a">DefaultComponent</_hname>
+					<_hid type="a">GUID 7cd46f6d-fda6-4535-870d-0d830b90335b</_hid>
+				</IHandle>
+			</_component>
+			<Multiplicities type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">4</size>
+					<IMultiplicityItem type="e">
+						<_name type="a">1</_name>
+						<_count type="a">-1</_count>
+					</IMultiplicityItem>
+					
+					<IMultiplicityItem type="e">
+						<_name type="a">*</_name>
+						<_count type="a">-1</_count>
+					</IMultiplicityItem>
+					
+					<IMultiplicityItem type="e">
+						<_name type="a">0,1</_name>
+						<_count type="a">-1</_count>
+					</IMultiplicityItem>
+					
+					<IMultiplicityItem type="e">
+						<_name type="a">1..*</_name>
+						<_count type="a">-1</_count>
+					</IMultiplicityItem>
+					
+				</IRPYRawContainer>
+			</Multiplicities>
+			<_isImportedFromDM type="a">0</_isImportedFromDM>
+			<MSCS type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</MSCS>
+			<mapOslcAddedCollections type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</mapOslcAddedCollections>
+			<mapAssociationsToRemove type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</mapAssociationsToRemove>
+			<AggregatesList type="e">
+				<value>GUID 11188725-abaf-46cd-9330-a1567f66f187</value>
+				<value>GUID d24d9192-bc4f-48a2-a4e1-fdaebbdfa6b6</value>
+				<value>GUID 2418cc12-ca3a-4c57-9f50-289b40080d35</value>
+				<value>GUID 7cd46f6d-fda6-4535-870d-0d830b90335b</value>
+				<value>GUID 4577f1f6-3512-4ca1-8a00-b2b3947af37f</value>
+			</AggregatesList>
+		</IProject>
+		<ISubsystem type="e">
+			<fileName type="a">Default</fileName>
+			<_id type="a">GUID 11188725-abaf-46cd-9330-a1567f66f187</_id>
+		</ISubsystem>
+		<IProfile type="e">
+			<fileName type="a">UMLPerspectives</fileName>
+			<_persistAs type="a">$OMROOT\Settings\UMLPerspectives</_persistAs>
+			<_id type="a">GUID d24d9192-bc4f-48a2-a4e1-fdaebbdfa6b6</_id>
+			<_partOfTheModelKind type="a">referenceunit</_partOfTheModelKind>
+		</IProfile>
+		<IDiagram type="e">
+			<_id type="a">GUID 2418cc12-ca3a-4c57-9f50-289b40080d35</_id>
+			<_myState type="a">8192</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">1</size>
+						<IPropertySubject type="e">
+							<_Name type="a">Format</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<size type="a">3</size>
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Class</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">8</size>
+												<IProperty type="e">
+													<_Name type="a">DefaultSize</_Name>
+													<_Value type="a">0,34,84,148</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Fill.FillColor</_Name>
+													<_Value type="a">255,255,255</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Font</_Name>
+													<_Value type="a">Tahoma</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Size</_Name>
+													<_Value type="a">8</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Weight@Child.NameCompartment@Name</_Name>
+													<_Value type="a">700</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineColor</_Name>
+													<_Value type="a">109,163,217</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineStyle</_Name>
+													<_Value type="a">0</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineWidth</_Name>
+													<_Value type="a">1</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Composition</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">4</size>
+												<IProperty type="e">
+													<_Name type="a">Font.Font</_Name>
+													<_Value type="a">Tahoma</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Size</_Name>
+													<_Value type="a">8</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineColor</_Name>
+													<_Value type="a">128,128,128</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineWidth</_Name>
+													<_Value type="a">1</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Inheritance</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">4</size>
+												<IProperty type="e">
+													<_Name type="a">Font.Font</_Name>
+													<_Value type="a">Tahoma</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Size</_Name>
+													<_Value type="a">8</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineColor</_Name>
+													<_Value type="a">128,128,128</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineWidth</_Name>
+													<_Value type="a">1</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<_name type="a">Model1</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.30.2023::14:29:47</_modifiedTime>
+			<_lastModifiedTime type="a">8.30.2023::14:29:47</_lastModifiedTime>
+			<m_hReferencedDiagram type="r">
+				<IHandle type="e">
+				</IHandle>
+			</m_hReferencedDiagram>
+			<_defaultSubsystem type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hname type="a">Default</_hname>
+					<_hid type="a">GUID 11188725-abaf-46cd-9330-a1567f66f187</_hid>
+				</IHandle>
+			</_defaultSubsystem>
+			<AggregatesList type="e">
+				<value>GUID b4f79957-b4d5-4070-9ef1-70e89ac7347b</value>
+			</AggregatesList>
+		</IDiagram>
+		<CGIClassChart type="e">
+			<_id type="a">GUID b4f79957-b4d5-4070-9ef1-70e89ac7347b</_id>
+			<m_type type="a">0</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hname type="a">Model1</_hname>
+					<_hid type="a">GUID 2418cc12-ca3a-4c57-9f50-289b40080d35</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">0</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">0</m_bIsPreferencesInitialized>
+			<elementList type="a">16</elementList>
+			
+			<m_access type="a">'Z'</m_access>
+			<m_modified type="a">'N'</m_modified>
+			<m_nModifyDate type="a">0</m_nModifyDate>
+			<m_nCreateDate type="a">0</m_nCreateDate>
+			<m_bScaleWithZoom type="a">1</m_bScaleWithZoom>
+			<m_arrowStyle type="a">'S'</m_arrowStyle>
+			<m_pRoot type="s">GUID 868a9ba3-862f-49de-bdd0-7eab3c0e5e96</m_pRoot>
+			<m_currentLeftTop type="a">0 0 </m_currentLeftTop>
+			<m_currentRightBottom type="a">0 0 </m_currentRightBottom>
+			<m_bFreezeCompartmentContent type="a">0</m_bFreezeCompartmentContent>
+			<AggregatesList type="e">
+				<value>GUID 868a9ba3-862f-49de-bdd0-7eab3c0e5e96</value>
+				<value>GUID ba5faeaf-82e3-4df9-acd7-c7f9cf42f8e1</value>
+				<value>GUID f1b8dec2-49cc-4a23-91dc-dbb4de288bb3</value>
+				<value>GUID 2a0c7ab0-578a-482b-9bb8-6ae152414cf6</value>
+				<value>GUID 5ec53ba8-6028-41e3-bdba-9ab71a33ecc7</value>
+				<value>GUID a9313766-988d-4584-897b-d84c76ad729f</value>
+				<value>GUID 74c5ed9c-cba8-4cec-8573-f729be3d9590</value>
+				<value>GUID 0f288843-f6fe-4712-9acb-20c8b324159e</value>
+				<value>GUID dc27c3a3-11ad-43af-901f-ef634645654f</value>
+				<value>GUID bed7dfe1-b916-4fad-8e43-38f464d5e70a</value>
+				<value>GUID 9be2e318-f1d5-41ce-9e77-41c4c624e157</value>
+				<value>GUID 79ace838-4f3d-4835-9333-8bdb78f34bff</value>
+				<value>GUID b2eb4afe-7e9d-4d6e-a500-c0a5021bc2b4</value>
+				<value>GUID 71f0998c-dba0-4910-b249-e335525e3e5f</value>
+				<value>GUID fc2ee4e7-fe59-49b9-93ab-cd26922e6467</value>
+				<value>GUID e157f07d-931c-403c-8037-e5a7c0c81586</value>
+			</AggregatesList>
+		</CGIClassChart>
+		<CGIClass type="e">
+			<_id type="a">GUID 868a9ba3-862f-49de-bdd0-7eab3c0e5e96</_id>
+			<m_type type="a">78</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hname type="a">TopLevel</_hname>
+					<_hid type="a">GUID 8e71a667-eb54-450c-9086-27e4fc61f3d4</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">TopLevel</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">0</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">0</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_polygon type="a">0 </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<Attrs type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Attrs>
+			<Operations type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Operations>
+		</CGIClass>
+		<CGIClass type="e">
+			<_id type="a">GUID ba5faeaf-82e3-4df9-acd7-c7f9cf42f8e1</_id>
+			<m_type type="a">87</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hname type="a">Czujnik</_hname>
+					<_hid type="a">GUID a4ab1415-b1ee-486f-a528-4eae69e21ab7</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 868a9ba3-862f-49de-bdd0-7eab3c0e5e96</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">Czujnik</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">2056</m_drawBehavior>
+			<m_transform type="a">0.0991501 0 0 0.101604 31.8017 31.5722 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_bFramesetModified type="a">1</m_bFramesetModified>
+			<m_polygon type="a">4 2 329  2 1451  1061 1451  1061 329  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<frameset type="a">&lt;frameset rows=46%25,54%25&gt;
+&lt;frame name=AttributeListCompartment&gt;
+&lt;frame name=OperationListCompartment&gt;</frameset>
+			<Attrs type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Attrs>
+			<Operations type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Operations>
+			<AggregatesList type="e">
+				<value>GUID 8f4bcaf3-e3ab-4cf3-8b71-1eb937c22619</value>
+				<value>GUID a8fa13f4-a39f-4383-85ac-04b55ea09e62</value>
+			</AggregatesList>
+		</CGIClass>
+		<CGICompartment type="e">
+			<_id type="a">GUID 8f4bcaf3-e3ab-4cf3-8b71-1eb937c22619</_id>
+			<m_name type="a">Attribute</m_name>
+			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<Items type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Items>
+		</CGICompartment>
+		<CGICompartment type="e">
+			<_id type="a">GUID a8fa13f4-a39f-4383-85ac-04b55ea09e62</_id>
+			<m_name type="a">Operation</m_name>
+			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<Items type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Items>
+		</CGICompartment>
+		<CGIClass type="e">
+			<_id type="a">GUID f1b8dec2-49cc-4a23-91dc-dbb4de288bb3</_id>
+			<m_type type="a">87</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hname type="a">Norma</_hname>
+					<_hid type="a">GUID 37b8d86d-574d-4af0-8a07-f8c4aa678a22</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 868a9ba3-862f-49de-bdd0-7eab3c0e5e96</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">Norma</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">2056</m_drawBehavior>
+			<m_transform type="a">0.0793201 0 0 0.101604 31.8414 222.572 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_polygon type="a">4 2 329  2 1451  1061 1451  1061 329  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<frameset type="a">&lt;frameset rows=50%25,50%25&gt;
+&lt;frame name=AttributeListCompartment&gt;
+&lt;frame name=OperationListCompartment&gt;</frameset>
+			<Attrs type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Attrs>
+			<Operations type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Operations>
+			<AggregatesList type="e">
+				<value>GUID 3b286946-a262-4c87-99bb-bab69515f91e</value>
+				<value>GUID 1728ac8b-c237-46d9-9f12-264c146805e3</value>
+			</AggregatesList>
+		</CGIClass>
+		<CGICompartment type="e">
+			<_id type="a">GUID 3b286946-a262-4c87-99bb-bab69515f91e</_id>
+			<m_name type="a">Attribute</m_name>
+			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<Items type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Items>
+		</CGICompartment>
+		<CGICompartment type="e">
+			<_id type="a">GUID 1728ac8b-c237-46d9-9f12-264c146805e3</_id>
+			<m_name type="a">Operation</m_name>
+			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<Items type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Items>
+		</CGICompartment>
+		<CGIClass type="e">
+			<_id type="a">GUID 2a0c7ab0-578a-482b-9bb8-6ae152414cf6</_id>
+			<m_type type="a">87</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hname type="a">OdbiornikGPS</_hname>
+					<_hid type="a">GUID cf01c14d-6a1d-4b64-899b-89bd00c7716f</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 868a9ba3-862f-49de-bdd0-7eab3c0e5e96</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">OdbiornikGPS</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">2056</m_drawBehavior>
+			<m_transform type="a">0.0793201 0 0 0.101604 274.841 258.572 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_polygon type="a">4 2 329  2 1451  1061 1451  1061 329  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<frameset type="a">&lt;frameset rows=50%25,50%25&gt;
+&lt;frame name=AttributeListCompartment&gt;
+&lt;frame name=OperationListCompartment&gt;</frameset>
+			<Attrs type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Attrs>
+			<Operations type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Operations>
+			<AggregatesList type="e">
+				<value>GUID df9f4e68-bf13-43d9-9589-7d90dcaa0a15</value>
+				<value>GUID bb241ba0-ff45-4dbc-9a2b-a234e7e363a6</value>
+			</AggregatesList>
+		</CGIClass>
+		<CGICompartment type="e">
+			<_id type="a">GUID df9f4e68-bf13-43d9-9589-7d90dcaa0a15</_id>
+			<m_name type="a">Attribute</m_name>
+			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<Items type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Items>
+		</CGICompartment>
+		<CGICompartment type="e">
+			<_id type="a">GUID bb241ba0-ff45-4dbc-9a2b-a234e7e363a6</_id>
+			<m_name type="a">Operation</m_name>
+			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<Items type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Items>
+		</CGICompartment>
+		<CGIClass type="e">
+			<_id type="a">GUID 5ec53ba8-6028-41e3-bdba-9ab71a33ecc7</_id>
+			<m_type type="a">87</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hname type="a">Ikona</_hname>
+					<_hid type="a">GUID 90a3b616-2d22-4641-80d0-455c412e842f</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 868a9ba3-862f-49de-bdd0-7eab3c0e5e96</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">Ikona</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">2056</m_drawBehavior>
+			<m_transform type="a">0.0793201 0 0 0.101604 407.841 258.572 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_bFramesetModified type="a">1</m_bFramesetModified>
+			<m_polygon type="a">4 2 329  2 1451  1061 1451  1061 329  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<frameset type="a">&lt;frameset rows=29%25,71%25&gt;
+&lt;frame name=AttributeListCompartment&gt;
+&lt;frame name=OperationListCompartment&gt;</frameset>
+			<Attrs type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Attrs>
+			<Operations type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Operations>
+			<AggregatesList type="e">
+				<value>GUID 3c95850b-fa9a-409f-b7b9-3601fd0f8ff3</value>
+				<value>GUID 6551b1e9-a59d-42b5-9711-a1d1df4fa8a4</value>
+			</AggregatesList>
+		</CGIClass>
+		<CGICompartment type="e">
+			<_id type="a">GUID 3c95850b-fa9a-409f-b7b9-3601fd0f8ff3</_id>
+			<m_name type="a">Attribute</m_name>
+			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<Items type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Items>
+		</CGICompartment>
+		<CGICompartment type="e">
+			<_id type="a">GUID 6551b1e9-a59d-42b5-9711-a1d1df4fa8a4</_id>
+			<m_name type="a">Operation</m_name>
+			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<Items type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Items>
+		</CGICompartment>
+		<CGIClass type="e">
+			<_id type="a">GUID a9313766-988d-4584-897b-d84c76ad729f</_id>
+			<m_type type="a">87</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hname type="a">Aplikacja</_hname>
+					<_hid type="a">GUID 034bba79-36b4-4a20-81c9-00b0f206aba6</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 868a9ba3-862f-49de-bdd0-7eab3c0e5e96</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">Aplikacja</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">2056</m_drawBehavior>
+			<m_transform type="a">0.0793201 0 0 0.101604 358.841 16.5722 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_polygon type="a">4 2 329  2 1451  1061 1451  1061 329  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<frameset type="a">&lt;frameset rows=50%25,50%25&gt;
+&lt;frame name=AttributeListCompartment&gt;
+&lt;frame name=OperationListCompartment&gt;</frameset>
+			<Attrs type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Attrs>
+			<Operations type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Operations>
+			<AggregatesList type="e">
+				<value>GUID 51c80a89-16e3-4cae-b666-50cacd113357</value>
+				<value>GUID 6836effa-fd72-4131-b0a0-7fd101ce91aa</value>
+			</AggregatesList>
+		</CGIClass>
+		<CGICompartment type="e">
+			<_id type="a">GUID 51c80a89-16e3-4cae-b666-50cacd113357</_id>
+			<m_name type="a">Attribute</m_name>
+			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<Items type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Items>
+		</CGICompartment>
+		<CGICompartment type="e">
+			<_id type="a">GUID 6836effa-fd72-4131-b0a0-7fd101ce91aa</_id>
+			<m_name type="a">Operation</m_name>
+			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<Items type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Items>
+		</CGICompartment>
+		<CGIClass type="e">
+			<_id type="a">GUID 74c5ed9c-cba8-4cec-8573-f729be3d9590</_id>
+			<m_type type="a">87</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hname type="a">Paczka</_hname>
+					<_hid type="a">GUID 18be0db1-745e-4554-9134-30609bc1f8a3</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 868a9ba3-862f-49de-bdd0-7eab3c0e5e96</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">Paczka</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">2056</m_drawBehavior>
+			<m_transform type="a">0.0793201 0 0 0.101604 582.841 57.5722 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_polygon type="a">4 2 329  2 1451  1061 1451  1061 329  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<frameset type="a">&lt;frameset rows=50%25,50%25&gt;
+&lt;frame name=AttributeListCompartment&gt;
+&lt;frame name=OperationListCompartment&gt;</frameset>
+			<Attrs type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Attrs>
+			<Operations type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Operations>
+			<AggregatesList type="e">
+				<value>GUID 18dc42cf-54c4-4409-9a22-70608e02892d</value>
+				<value>GUID a77b0473-022c-4dcc-8ebe-a72d7995b116</value>
+			</AggregatesList>
+		</CGIClass>
+		<CGICompartment type="e">
+			<_id type="a">GUID 18dc42cf-54c4-4409-9a22-70608e02892d</_id>
+			<m_name type="a">Attribute</m_name>
+			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<Items type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Items>
+		</CGICompartment>
+		<CGICompartment type="e">
+			<_id type="a">GUID a77b0473-022c-4dcc-8ebe-a72d7995b116</_id>
+			<m_name type="a">Operation</m_name>
+			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<Items type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Items>
+		</CGICompartment>
+		<CGIAssociationEnd type="e">
+			<_id type="a">GUID 0f288843-f6fe-4712-9acb-20c8b324159e</_id>
+			<m_type type="a">36</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hclass type="a">Paczka</_hclass>
+					<_hname type="a">itsAplikacja</_hname>
+					<_hid type="a">GUID 37883b69-61a0-4fa3-9159-cbe509df5952</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4096</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_pSource type="s">GUID 74c5ed9c-cba8-4cec-8573-f729be3d9590</m_pSource>
+			<m_sourceType type="a">'F'</m_sourceType>
+			<m_pTarget type="s">GUID a9313766-988d-4584-897b-d84c76ad729f</m_pTarget>
+			<m_targetType type="a">'T'</m_targetType>
+			<m_direction type="a">' '</m_direction>
+			<m_rpn type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">7</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_rpn>
+			<m_arrow type="a">2 513 121  513 91  </m_arrow>
+			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
+			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
+			<m_line_style type="a">2</m_line_style>
+			<m_SourcePort type="a">2 624 </m_SourcePort>
+			<m_TargetPort type="a">1061 733 </m_TargetPort>
+			<m_pInverseModelObject type="r">
+				<IAssociationEndHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hclass type="a">Aplikacja</_hclass>
+					<_hname type="a">itsPaczka</_hname>
+					<_hid type="a">GUID 14818147-2a8b-4732-a796-df13d56de246</_hid>
+				</IAssociationEndHandle>
+			</m_pInverseModelObject>
+			<m_pInstance type="r">
+				<IObjectLinkHandle type="e">
+				</IObjectLinkHandle>
+			</m_pInstance>
+			<m_pInverseInstance type="r">
+				<IObjectLinkHandle type="e">
+				</IObjectLinkHandle>
+			</m_pInverseInstance>
+			<m_bShowSourceMultiplicity type="a">1</m_bShowSourceMultiplicity>
+			<m_bShowSourceRole type="a">1</m_bShowSourceRole>
+			<m_bShowTargetMultiplicity type="a">1</m_bShowTargetMultiplicity>
+			<m_bShowTargetRole type="a">1</m_bShowTargetRole>
+			<m_bShowLinkName type="a">1</m_bShowLinkName>
+			<m_bShowSpecificType type="a">0</m_bShowSpecificType>
+			<m_bInstance type="a">0</m_bInstance>
+			<m_bShowQualifier1 type="a">1</m_bShowQualifier1>
+			<m_bShowQualifier2 type="a">1</m_bShowQualifier2>
+			<m_sourceRole type="p">
+				<CGIText type="e">
+					<m_str type="a">itsPaczka</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">2</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nHorizontalSpacing type="a">-7</m_nHorizontalSpacing>
+					<m_nOrientationCtrlPt type="a">2</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_sourceRole>
+			<m_targetRole type="p">
+				<CGIText type="e">
+					<m_str type="a">itsAplikacja</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">3</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">0</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_targetRole>
+			<m_sourceMultiplicity type="p">
+				<CGIText type="e">
+					<m_str type="a">1</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">4</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nHorizontalSpacing type="a">-7</m_nHorizontalSpacing>
+					<m_nOrientationCtrlPt type="a">4</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_sourceMultiplicity>
+			<m_targetMultiplicity type="p">
+				<CGIText type="e">
+					<m_str type="a">1</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">5</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">6</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_targetMultiplicity>
+			<m_sourceQualifier type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">6</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_sourceQualifier>
+			<m_targetQualifier type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">7</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_targetQualifier>
+			<m_specificType type="a">symmetric_type</m_specificType>
+		</CGIAssociationEnd>
+		<CGIAssociationEnd type="e">
+			<_id type="a">GUID dc27c3a3-11ad-43af-901f-ef634645654f</_id>
+			<m_type type="a">36</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hclass type="a">Aplikacja</_hclass>
+					<_hname type="a">itsOdbiornikGPS</_hname>
+					<_hid type="a">GUID 23383278-5d07-47d7-9ebf-60f801197f4b</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4096</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_pSource type="s">GUID a9313766-988d-4584-897b-d84c76ad729f</m_pSource>
+			<m_sourceType type="a">'F'</m_sourceType>
+			<m_pTarget type="s">GUID 2a0c7ab0-578a-482b-9bb8-6ae152414cf6</m_pTarget>
+			<m_targetType type="a">'T'</m_targetType>
+			<m_direction type="a">' '</m_direction>
+			<m_rpn type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">7</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_rpn>
+			<m_arrow type="a">2 417 272  332 272  </m_arrow>
+			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
+			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
+			<m_line_style type="a">2</m_line_style>
+			<m_SourcePort type="a">733 1451 </m_SourcePort>
+			<m_TargetPort type="a">721 329 </m_TargetPort>
+			<m_pInverseModelObject type="r">
+				<IAssociationEndHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hclass type="a">OdbiornikGPS</_hclass>
+					<_hname type="a">itsAplikacja</_hname>
+					<_hid type="a">GUID 5c99965e-fc20-4db6-9ff8-0006be990405</_hid>
+				</IAssociationEndHandle>
+			</m_pInverseModelObject>
+			<m_pInstance type="r">
+				<IObjectLinkHandle type="e">
+				</IObjectLinkHandle>
+			</m_pInstance>
+			<m_pInverseInstance type="r">
+				<IObjectLinkHandle type="e">
+				</IObjectLinkHandle>
+			</m_pInverseInstance>
+			<m_bShowSourceMultiplicity type="a">1</m_bShowSourceMultiplicity>
+			<m_bShowSourceRole type="a">1</m_bShowSourceRole>
+			<m_bShowTargetMultiplicity type="a">1</m_bShowTargetMultiplicity>
+			<m_bShowTargetRole type="a">1</m_bShowTargetRole>
+			<m_bShowLinkName type="a">1</m_bShowLinkName>
+			<m_bShowSpecificType type="a">0</m_bShowSpecificType>
+			<m_bInstance type="a">0</m_bInstance>
+			<m_bShowQualifier1 type="a">1</m_bShowQualifier1>
+			<m_bShowQualifier2 type="a">1</m_bShowQualifier2>
+			<m_sourceRole type="p">
+				<CGIText type="e">
+					<m_str type="a">itsAplikacja</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">2</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nVerticalSpacing type="a">7</m_nVerticalSpacing>
+					<m_nOrientationCtrlPt type="a">2</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_sourceRole>
+			<m_targetRole type="p">
+				<CGIText type="e">
+					<m_str type="a">itsOdbiornikGPS</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">3</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">4</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_targetRole>
+			<m_sourceMultiplicity type="p">
+				<CGIText type="e">
+					<m_str type="a">1</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">4</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nVerticalSpacing type="a">7</m_nVerticalSpacing>
+					<m_nOrientationCtrlPt type="a">0</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_sourceMultiplicity>
+			<m_targetMultiplicity type="p">
+				<CGIText type="e">
+					<m_str type="a">1</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">5</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">6</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_targetMultiplicity>
+			<m_sourceQualifier type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">6</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_sourceQualifier>
+			<m_targetQualifier type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">7</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_targetQualifier>
+			<m_specificType type="a">symmetric_type</m_specificType>
+		</CGIAssociationEnd>
+		<CGIAssociationEnd type="e">
+			<_id type="a">GUID bed7dfe1-b916-4fad-8e43-38f464d5e70a</_id>
+			<m_type type="a">36</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hclass type="a">Aplikacja</_hclass>
+					<_hname type="a">itsCzujnik</_hname>
+					<_hid type="a">GUID 7f1ebf32-6568-4059-913e-b91155d8a6db</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4096</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_pSource type="s">GUID a9313766-988d-4584-897b-d84c76ad729f</m_pSource>
+			<m_sourceType type="a">'F'</m_sourceType>
+			<m_pTarget type="s">GUID ba5faeaf-82e3-4df9-acd7-c7f9cf42f8e1</m_pTarget>
+			<m_targetType type="a">'T'</m_targetType>
+			<m_direction type="a">' '</m_direction>
+			<m_rpn type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">7</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_rpn>
+			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
+			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
+			<m_line_style type="a">2</m_line_style>
+			<m_SourcePort type="a">2 1274 </m_SourcePort>
+			<m_TargetPort type="a">1061 1126 </m_TargetPort>
+			<m_pInverseModelObject type="r">
+				<IAssociationEndHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hclass type="a">Czujnik</_hclass>
+					<_hname type="a">itsAplikacja</_hname>
+					<_hid type="a">GUID 4fc8b35c-f9a6-482a-9fb0-988ce80662fe</_hid>
+				</IAssociationEndHandle>
+			</m_pInverseModelObject>
+			<m_pInstance type="r">
+				<IObjectLinkHandle type="e">
+				</IObjectLinkHandle>
+			</m_pInstance>
+			<m_pInverseInstance type="r">
+				<IObjectLinkHandle type="e">
+				</IObjectLinkHandle>
+			</m_pInverseInstance>
+			<m_bShowSourceMultiplicity type="a">1</m_bShowSourceMultiplicity>
+			<m_bShowSourceRole type="a">1</m_bShowSourceRole>
+			<m_bShowTargetMultiplicity type="a">1</m_bShowTargetMultiplicity>
+			<m_bShowTargetRole type="a">1</m_bShowTargetRole>
+			<m_bShowLinkName type="a">1</m_bShowLinkName>
+			<m_bShowSpecificType type="a">0</m_bShowSpecificType>
+			<m_bInstance type="a">0</m_bInstance>
+			<m_bShowQualifier1 type="a">1</m_bShowQualifier1>
+			<m_bShowQualifier2 type="a">1</m_bShowQualifier2>
+			<m_sourceRole type="p">
+				<CGIText type="e">
+					<m_str type="a">itsAplikacja</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">2</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nHorizontalSpacing type="a">-7</m_nHorizontalSpacing>
+					<m_nOrientationCtrlPt type="a">2</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_sourceRole>
+			<m_targetRole type="p">
+				<CGIText type="e">
+					<m_str type="a">itsCzujnik</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">3</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">0</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_targetRole>
+			<m_sourceMultiplicity type="p">
+				<CGIText type="e">
+					<m_str type="a">1</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">4</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nHorizontalSpacing type="a">-7</m_nHorizontalSpacing>
+					<m_nOrientationCtrlPt type="a">4</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_sourceMultiplicity>
+			<m_targetMultiplicity type="p">
+				<CGIText type="e">
+					<m_str type="a">1</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">5</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">6</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_targetMultiplicity>
+			<m_sourceQualifier type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">6</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_sourceQualifier>
+			<m_targetQualifier type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">7</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_targetQualifier>
+			<m_specificType type="a">symmetric_type</m_specificType>
+		</CGIAssociationEnd>
+		<CGIAssociationEnd type="e">
+			<_id type="a">GUID 9be2e318-f1d5-41ce-9e77-41c4c624e157</_id>
+			<m_type type="a">36</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hclass type="a">Aplikacja</_hclass>
+					<_hname type="a">itsNorma</_hname>
+					<_hid type="a">GUID f5f80fe0-712e-4ee5-9f83-5d919d1b75bb</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4096</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_pSource type="s">GUID a9313766-988d-4584-897b-d84c76ad729f</m_pSource>
+			<m_sourceType type="a">'F'</m_sourceType>
+			<m_pTarget type="s">GUID f1b8dec2-49cc-4a23-91dc-dbb4de288bb3</m_pTarget>
+			<m_targetType type="a">'T'</m_targetType>
+			<m_direction type="a">' '</m_direction>
+			<m_rpn type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">7</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_rpn>
+			<m_arrow type="a">2 253 146  253 309  </m_arrow>
+			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
+			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
+			<m_line_style type="a">2</m_line_style>
+			<m_SourcePort type="a">2 1274 </m_SourcePort>
+			<m_TargetPort type="a">1061 851 </m_TargetPort>
+			<m_pInverseModelObject type="r">
+				<IAssociationEndHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hclass type="a">Norma</_hclass>
+					<_hname type="a">itsAplikacja</_hname>
+					<_hid type="a">GUID 508cf399-84f6-431d-9f68-58dc7fcebf47</_hid>
+				</IAssociationEndHandle>
+			</m_pInverseModelObject>
+			<m_pInstance type="r">
+				<IObjectLinkHandle type="e">
+				</IObjectLinkHandle>
+			</m_pInstance>
+			<m_pInverseInstance type="r">
+				<IObjectLinkHandle type="e">
+				</IObjectLinkHandle>
+			</m_pInverseInstance>
+			<m_bShowSourceMultiplicity type="a">1</m_bShowSourceMultiplicity>
+			<m_bShowSourceRole type="a">1</m_bShowSourceRole>
+			<m_bShowTargetMultiplicity type="a">1</m_bShowTargetMultiplicity>
+			<m_bShowTargetRole type="a">1</m_bShowTargetRole>
+			<m_bShowLinkName type="a">1</m_bShowLinkName>
+			<m_bShowSpecificType type="a">0</m_bShowSpecificType>
+			<m_bInstance type="a">0</m_bInstance>
+			<m_bShowQualifier1 type="a">1</m_bShowQualifier1>
+			<m_bShowQualifier2 type="a">1</m_bShowQualifier2>
+			<m_sourceRole type="p">
+				<CGIText type="e">
+					<m_str type="a">itsAplikacja</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">2</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nHorizontalSpacing type="a">-7</m_nHorizontalSpacing>
+					<m_nOrientationCtrlPt type="a">2</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_sourceRole>
+			<m_targetRole type="p">
+				<CGIText type="e">
+					<m_str type="a">itsNorma</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">3</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">0</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_targetRole>
+			<m_sourceMultiplicity type="p">
+				<CGIText type="e">
+					<m_str type="a">1</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">4</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nHorizontalSpacing type="a">-7</m_nHorizontalSpacing>
+					<m_nOrientationCtrlPt type="a">4</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_sourceMultiplicity>
+			<m_targetMultiplicity type="p">
+				<CGIText type="e">
+					<m_str type="a">1</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">5</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">6</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_targetMultiplicity>
+			<m_sourceQualifier type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">6</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_sourceQualifier>
+			<m_targetQualifier type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">7</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_targetQualifier>
+			<m_specificType type="a">symmetric_type</m_specificType>
+		</CGIAssociationEnd>
+		<CGIClass type="e">
+			<_id type="a">GUID 79ace838-4f3d-4835-9333-8bdb78f34bff</_id>
+			<m_type type="a">87</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hname type="a">Ustawienia</_hname>
+					<_hid type="a">GUID a2c14b68-4afc-47ab-ab35-cd6df6ec45a0</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 868a9ba3-862f-49de-bdd0-7eab3c0e5e96</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">Ustawienia</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">2056</m_drawBehavior>
+			<m_transform type="a">0.0793201 0 0 0.101604 582.841 216.572 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_polygon type="a">4 2 329  2 1451  1061 1451  1061 329  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<frameset type="a">&lt;frameset rows=50%25,50%25&gt;
+&lt;frame name=AttributeListCompartment&gt;
+&lt;frame name=OperationListCompartment&gt;</frameset>
+			<Attrs type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Attrs>
+			<Operations type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Operations>
+			<AggregatesList type="e">
+				<value>GUID c782f483-17d7-47da-9b1e-a955b5d23b20</value>
+				<value>GUID 896a92f2-e459-4ffb-8df6-d9919cc1837b</value>
+			</AggregatesList>
+		</CGIClass>
+		<CGICompartment type="e">
+			<_id type="a">GUID c782f483-17d7-47da-9b1e-a955b5d23b20</_id>
+			<m_name type="a">Attribute</m_name>
+			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<Items type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Items>
+		</CGICompartment>
+		<CGICompartment type="e">
+			<_id type="a">GUID 896a92f2-e459-4ffb-8df6-d9919cc1837b</_id>
+			<m_name type="a">Operation</m_name>
+			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<Items type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Items>
+		</CGICompartment>
+		<CGIAssociationEnd type="e">
+			<_id type="a">GUID b2eb4afe-7e9d-4d6e-a500-c0a5021bc2b4</_id>
+			<m_type type="a">36</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hclass type="a">Paczka</_hclass>
+					<_hname type="a">itsUstawienia</_hname>
+					<_hid type="a">GUID 56591a6d-d3c1-481f-8b41-ec43f9505821</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4096</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_pSource type="s">GUID 74c5ed9c-cba8-4cec-8573-f729be3d9590</m_pSource>
+			<m_sourceType type="a">'F'</m_sourceType>
+			<m_pTarget type="s">GUID 79ace838-4f3d-4835-9333-8bdb78f34bff</m_pTarget>
+			<m_targetType type="a">'T'</m_targetType>
+			<m_direction type="a">' '</m_direction>
+			<m_rpn type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">7</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_rpn>
+			<m_arrow type="a">2 615 227  620 227  </m_arrow>
+			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
+			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
+			<m_line_style type="a">2</m_line_style>
+			<m_SourcePort type="a">405 1451 </m_SourcePort>
+			<m_TargetPort type="a">468 329 </m_TargetPort>
+			<m_pInverseModelObject type="r">
+				<IAssociationEndHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hclass type="a">Ustawienia</_hclass>
+					<_hname type="a">itsPaczka</_hname>
+					<_hid type="a">GUID 1b5e85ec-b5c3-4240-b47e-63ac229b415e</_hid>
+				</IAssociationEndHandle>
+			</m_pInverseModelObject>
+			<m_pInstance type="r">
+				<IObjectLinkHandle type="e">
+				</IObjectLinkHandle>
+			</m_pInstance>
+			<m_pInverseInstance type="r">
+				<IObjectLinkHandle type="e">
+				</IObjectLinkHandle>
+			</m_pInverseInstance>
+			<m_bShowSourceMultiplicity type="a">1</m_bShowSourceMultiplicity>
+			<m_bShowSourceRole type="a">1</m_bShowSourceRole>
+			<m_bShowTargetMultiplicity type="a">1</m_bShowTargetMultiplicity>
+			<m_bShowTargetRole type="a">1</m_bShowTargetRole>
+			<m_bShowLinkName type="a">1</m_bShowLinkName>
+			<m_bShowSpecificType type="a">0</m_bShowSpecificType>
+			<m_bInstance type="a">0</m_bInstance>
+			<m_bShowQualifier1 type="a">1</m_bShowQualifier1>
+			<m_bShowQualifier2 type="a">1</m_bShowQualifier2>
+			<m_sourceRole type="p">
+				<CGIText type="e">
+					<m_str type="a">itsPaczka</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">2</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nVerticalSpacing type="a">7</m_nVerticalSpacing>
+					<m_nOrientationCtrlPt type="a">2</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_sourceRole>
+			<m_targetRole type="p">
+				<CGIText type="e">
+					<m_str type="a">itsUstawienia</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">3</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">4</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_targetRole>
+			<m_sourceMultiplicity type="p">
+				<CGIText type="e">
+					<m_str type="a">1</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">4</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nVerticalSpacing type="a">7</m_nVerticalSpacing>
+					<m_nOrientationCtrlPt type="a">0</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_sourceMultiplicity>
+			<m_targetMultiplicity type="p">
+				<CGIText type="e">
+					<m_str type="a">1..*</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">5</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">6</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_targetMultiplicity>
+			<m_sourceQualifier type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">6</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_sourceQualifier>
+			<m_targetQualifier type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">7</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_targetQualifier>
+			<m_specificType type="a">symmetric_type</m_specificType>
+		</CGIAssociationEnd>
+		<CGIClass type="e">
+			<_id type="a">GUID 71f0998c-dba0-4910-b249-e335525e3e5f</_id>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">1</size>
+						<IPropertySubject type="e">
+							<_Name type="a">General</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<size type="a">1</size>
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Graphics</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">1</size>
+												<IProperty type="e">
+													<_Name type="a">FitBoxToItsTextuals</_Name>
+													<_Value type="a">False</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<m_type type="a">87</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hname type="a">PowiadomieniePrz</_hname>
+					<_hid type="a">GUID b266cfd6-d6b8-4489-9f90-7a5954377ceb</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 868a9ba3-862f-49de-bdd0-7eab3c0e5e96</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">PowiadomieniePrz</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">2056</m_drawBehavior>
+			<m_transform type="a">0.0991501 0 0 0.105169 156.802 -23.6007 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_polygon type="a">4 2 329  2 1451  1061 1451  1061 329  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<frameset type="a">&lt;frameset rows=50%25,50%25&gt;
+&lt;frame name=AttributeListCompartment&gt;
+&lt;frame name=OperationListCompartment&gt;</frameset>
+			<Attrs type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Attrs>
+			<Operations type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Operations>
+			<AggregatesList type="e">
+				<value>GUID 6dceb63e-f747-499e-b611-9b31882d874d</value>
+				<value>GUID 70b91d64-da0a-4b5a-912e-a2f42ef2ad2e</value>
+			</AggregatesList>
+		</CGIClass>
+		<CGICompartment type="e">
+			<_id type="a">GUID 6dceb63e-f747-499e-b611-9b31882d874d</_id>
+			<m_name type="a">Attribute</m_name>
+			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<Items type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Items>
+		</CGICompartment>
+		<CGICompartment type="e">
+			<_id type="a">GUID 70b91d64-da0a-4b5a-912e-a2f42ef2ad2e</_id>
+			<m_name type="a">Operation</m_name>
+			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<Items type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Items>
+		</CGICompartment>
+		<CGIAssociationEnd type="e">
+			<_id type="a">GUID fc2ee4e7-fe59-49b9-93ab-cd26922e6467</_id>
+			<m_type type="a">36</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hclass type="a">Aplikacja</_hclass>
+					<_hname type="a">itsPowiadomieniePrz</_hname>
+					<_hid type="a">GUID 9dd57bee-8c23-483e-b167-08da47f71449</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4096</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">0</m_bIsPreferencesInitialized>
+			<m_pSource type="s">GUID a9313766-988d-4584-897b-d84c76ad729f</m_pSource>
+			<m_sourceType type="a">'F'</m_sourceType>
+			<m_pTarget type="s">GUID 71f0998c-dba0-4910-b249-e335525e3e5f</m_pTarget>
+			<m_targetType type="a">'T'</m_targetType>
+			<m_direction type="a">' '</m_direction>
+			<m_rpn type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">7</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_rpn>
+			<m_arrow type="a">2 310 107  310 70  </m_arrow>
+			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
+			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
+			<m_line_style type="a">2</m_line_style>
+			<m_SourcePort type="a">2 890 </m_SourcePort>
+			<m_TargetPort type="a">1061 890 </m_TargetPort>
+			<m_pInverseModelObject type="r">
+				<IAssociationEndHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hclass type="a">PowiadomieniePrz</_hclass>
+					<_hname type="a">itsAplikacja</_hname>
+					<_hid type="a">GUID ad60a1ee-e64b-4b8f-b70a-0a6ade66074c</_hid>
+				</IAssociationEndHandle>
+			</m_pInverseModelObject>
+			<m_pInstance type="r">
+				<IObjectLinkHandle type="e">
+				</IObjectLinkHandle>
+			</m_pInstance>
+			<m_pInverseInstance type="r">
+				<IObjectLinkHandle type="e">
+				</IObjectLinkHandle>
+			</m_pInverseInstance>
+			<m_bShowSourceMultiplicity type="a">1</m_bShowSourceMultiplicity>
+			<m_bShowSourceRole type="a">1</m_bShowSourceRole>
+			<m_bShowTargetMultiplicity type="a">1</m_bShowTargetMultiplicity>
+			<m_bShowTargetRole type="a">1</m_bShowTargetRole>
+			<m_bShowLinkName type="a">1</m_bShowLinkName>
+			<m_bShowSpecificType type="a">0</m_bShowSpecificType>
+			<m_bInstance type="a">0</m_bInstance>
+			<m_bShowQualifier1 type="a">1</m_bShowQualifier1>
+			<m_bShowQualifier2 type="a">1</m_bShowQualifier2>
+			<m_sourceRole type="p">
+				<CGIText type="e">
+					<m_str type="a">itsAplikacja</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">2</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nHorizontalSpacing type="a">-7</m_nHorizontalSpacing>
+					<m_nOrientationCtrlPt type="a">2</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_sourceRole>
+			<m_targetRole type="p">
+				<CGIText type="e">
+					<m_str type="a">itsPowiadomieniePrz</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">3</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">0</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_targetRole>
+			<m_sourceMultiplicity type="p">
+				<CGIText type="e">
+					<m_str type="a">1</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">4</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nHorizontalSpacing type="a">-7</m_nHorizontalSpacing>
+					<m_nOrientationCtrlPt type="a">4</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_sourceMultiplicity>
+			<m_targetMultiplicity type="p">
+				<CGIText type="e">
+					<m_str type="a">1</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">5</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">6</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_targetMultiplicity>
+			<m_sourceQualifier type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">6</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_sourceQualifier>
+			<m_targetQualifier type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">7</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_targetQualifier>
+			<m_specificType type="a">symmetric_type</m_specificType>
+		</CGIAssociationEnd>
+		<CGIAssociationEnd type="e">
+			<_id type="a">GUID e157f07d-931c-403c-8037-e5a7c0c81586</_id>
+			<m_type type="a">36</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hclass type="a">OdbiornikGPS</_hclass>
+					<_hname type="a">itsIkona</_hname>
+					<_hid type="a">GUID 2bfca0c8-9c03-443d-94d3-23d4fd239f62</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4096</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_pSource type="s">GUID 2a0c7ab0-578a-482b-9bb8-6ae152414cf6</m_pSource>
+			<m_sourceType type="a">'F'</m_sourceType>
+			<m_pTarget type="s">GUID 5ec53ba8-6028-41e3-bdba-9ab71a33ecc7</m_pTarget>
+			<m_targetType type="a">'T'</m_targetType>
+			<m_direction type="a">' '</m_direction>
+			<m_rpn type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">7</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_rpn>
+			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
+			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
+			<m_line_style type="a">2</m_line_style>
+			<m_SourcePort type="a">1061 910 </m_SourcePort>
+			<m_TargetPort type="a">2 910 </m_TargetPort>
+			<m_pInverseModelObject type="r">
+				<IAssociationEndHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hclass type="a">Ikona</_hclass>
+					<_hname type="a">itsOdbiornikGPS</_hname>
+					<_hid type="a">GUID f6b2fb99-d72d-4ecb-9d0a-e2e58225e09e</_hid>
+				</IAssociationEndHandle>
+			</m_pInverseModelObject>
+			<m_pInstance type="r">
+				<IObjectLinkHandle type="e">
+				</IObjectLinkHandle>
+			</m_pInstance>
+			<m_pInverseInstance type="r">
+				<IObjectLinkHandle type="e">
+				</IObjectLinkHandle>
+			</m_pInverseInstance>
+			<m_bShowSourceMultiplicity type="a">1</m_bShowSourceMultiplicity>
+			<m_bShowSourceRole type="a">1</m_bShowSourceRole>
+			<m_bShowTargetMultiplicity type="a">1</m_bShowTargetMultiplicity>
+			<m_bShowTargetRole type="a">1</m_bShowTargetRole>
+			<m_bShowLinkName type="a">1</m_bShowLinkName>
+			<m_bShowSpecificType type="a">0</m_bShowSpecificType>
+			<m_bInstance type="a">0</m_bInstance>
+			<m_bShowQualifier1 type="a">1</m_bShowQualifier1>
+			<m_bShowQualifier2 type="a">1</m_bShowQualifier2>
+			<m_sourceRole type="p">
+				<CGIText type="e">
+					<m_str type="a">itsOdbiornikGPS</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">2</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nHorizontalSpacing type="a">7</m_nHorizontalSpacing>
+					<m_nOrientationCtrlPt type="a">0</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_sourceRole>
+			<m_targetRole type="p">
+				<CGIText type="e">
+					<m_str type="a">itsIkona</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">3</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">2</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_targetRole>
+			<m_sourceMultiplicity type="p">
+				<CGIText type="e">
+					<m_str type="a">1</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">4</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nHorizontalSpacing type="a">7</m_nHorizontalSpacing>
+					<m_nOrientationCtrlPt type="a">6</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_sourceMultiplicity>
+			<m_targetMultiplicity type="p">
+				<CGIText type="e">
+					<m_str type="a">1</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">5</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">4</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_targetMultiplicity>
+			<m_sourceQualifier type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">6</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_sourceQualifier>
+			<m_targetQualifier type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">7</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_targetQualifier>
+			<m_specificType type="a">symmetric_type</m_specificType>
+		</CGIAssociationEnd>
+		<IComponent type="e">
+			<fileName type="a">DefaultComponent</fileName>
+			<_id type="a">GUID 7cd46f6d-fda6-4535-870d-0d830b90335b</_id>
+		</IComponent>
+		<IUCDiagram type="e">
+			<_id type="a">GUID 4577f1f6-3512-4ca1-8a00-b2b3947af37f</_id>
+			<_myState type="a">8192</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">1</size>
+						<IPropertySubject type="e">
+							<_Name type="a">Format</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<size type="a">4</size>
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Actor</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">7</size>
+												<IProperty type="e">
+													<_Name type="a">DefaultSize</_Name>
+													<_Value type="a">0,0,53,142</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Fill.FillColor</_Name>
+													<_Value type="a">255,255,255</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Font</_Name>
+													<_Value type="a">Tahoma</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Size</_Name>
+													<_Value type="a">8</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Weight@Child.NameCompartment@Name</_Name>
+													<_Value type="a">700</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineColor</_Name>
+													<_Value type="a">109,163,217</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineWidth</_Name>
+													<_Value type="a">0</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Association</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">4</size>
+												<IProperty type="e">
+													<_Name type="a">Font.Font</_Name>
+													<_Value type="a">Tahoma</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Size</_Name>
+													<_Value type="a">8</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineColor</_Name>
+													<_Value type="a">128,128,128</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineWidth</_Name>
+													<_Value type="a">1</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Depends</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">5</size>
+												<IProperty type="e">
+													<_Name type="a">Font.Font</_Name>
+													<_Value type="a">Tahoma</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Size</_Name>
+													<_Value type="a">8</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineColor</_Name>
+													<_Value type="a">128,128,128</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineStyle</_Name>
+													<_Value type="a">2</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineWidth</_Name>
+													<_Value type="a">0</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+									<IPropertyMetaclass type="e">
+										<_Name type="a">UseCase</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">7</size>
+												<IProperty type="e">
+													<_Name type="a">DefaultSize</_Name>
+													<_Value type="a">0,0,140,65</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Fill.FillColor</_Name>
+													<_Value type="a">255,255,255</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Font</_Name>
+													<_Value type="a">Tahoma</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Size</_Name>
+													<_Value type="a">8</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Weight@Child.NameCompartment@Name</_Name>
+													<_Value type="a">700</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineColor</_Name>
+													<_Value type="a">109,163,217</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineWidth</_Name>
+													<_Value type="a">1</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<_name type="a">UseCase</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.28.2023::18:26:17</_modifiedTime>
+			<_lastModifiedTime type="a">8.28.2023::18:26:17</_lastModifiedTime>
+			<m_hReferencedDiagram type="r">
+				<IHandle type="e">
+				</IHandle>
+			</m_hReferencedDiagram>
+			<_defaultSubsystem type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hname type="a">Default</_hname>
+					<_hid type="a">GUID 11188725-abaf-46cd-9330-a1567f66f187</_hid>
+				</IHandle>
+			</_defaultSubsystem>
+			<AggregatesList type="e">
+				<value>GUID 2b8eef4c-4dad-443a-b28c-647294f56b02</value>
+			</AggregatesList>
+		</IUCDiagram>
+		<CGIClassChart type="e">
+			<_id type="a">GUID 2b8eef4c-4dad-443a-b28c-647294f56b02</_id>
+			<m_type type="a">0</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IUCDiagram</_hm2Class>
+					<_hname type="a">UseCase</_hname>
+					<_hid type="a">GUID 4577f1f6-3512-4ca1-8a00-b2b3947af37f</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">0</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">0</m_bIsPreferencesInitialized>
+			<elementList type="a">20</elementList>
+			
+			<m_access type="a">'Z'</m_access>
+			<m_modified type="a">'N'</m_modified>
+			<m_nModifyDate type="a">0</m_nModifyDate>
+			<m_nCreateDate type="a">0</m_nCreateDate>
+			<m_bScaleWithZoom type="a">1</m_bScaleWithZoom>
+			<m_arrowStyle type="a">'S'</m_arrowStyle>
+			<m_pRoot type="s">GUID 88cd1983-0186-488d-9ae6-bbc06a43f344</m_pRoot>
+			<m_currentLeftTop type="a">0 0 </m_currentLeftTop>
+			<m_currentRightBottom type="a">0 0 </m_currentRightBottom>
+			<m_bFreezeCompartmentContent type="a">0</m_bFreezeCompartmentContent>
+			<AggregatesList type="e">
+				<value>GUID 88cd1983-0186-488d-9ae6-bbc06a43f344</value>
+				<value>GUID 4f898d04-ff52-454f-b7f6-95f193bc3443</value>
+				<value>GUID 95a8106a-bba4-4624-b36a-c4af30d0fe83</value>
+				<value>GUID eddd7a57-d9a8-4cd1-8ad0-68223e463482</value>
+				<value>GUID 46de1681-b4dc-43a7-9f04-c776cc9c986d</value>
+				<value>GUID 0f340c78-1bc0-4e51-a803-254bac5f5f5b</value>
+				<value>GUID b9566d1d-7efb-463b-bdc5-1d3d2ea3c148</value>
+				<value>GUID 08a13366-0bd0-4258-b1c8-531597895207</value>
+				<value>GUID 0b2e6948-ce19-4335-a83c-673db65a1d7e</value>
+				<value>GUID ad80aa57-8fa2-40c7-a332-97fde42131a7</value>
+				<value>GUID ce340698-3151-43cc-b22a-91b8225ef86a</value>
+				<value>GUID a2659f25-673f-4505-9327-0c89718f67d4</value>
+				<value>GUID 9c6a3729-947b-495b-ac97-b5fc20d6cf50</value>
+				<value>GUID 48f9d0fc-85d7-4c06-8d4f-5a271d897392</value>
+				<value>GUID 85196e10-5ae5-48ad-adb3-2634949eb694</value>
+				<value>GUID 1fbb8cec-b72e-42cf-b405-87e435c53c68</value>
+				<value>GUID 08d6d654-87ae-40ac-8313-058ca23793b2</value>
+				<value>GUID 8b9ff9b7-fc40-43a2-9189-2c9ee6f5e7ef</value>
+				<value>GUID 42f7d17e-76e3-40b8-bbd3-ad8d7f960b93</value>
+				<value>GUID b46866b2-936b-4b7c-893b-3be335eeb3b5</value>
+			</AggregatesList>
+		</CGIClassChart>
+		<CGIClass type="e">
+			<_id type="a">GUID 88cd1983-0186-488d-9ae6-bbc06a43f344</_id>
+			<m_type type="a">78</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hname type="a">TopLevel</_hname>
+					<_hid type="a">GUID 8e71a667-eb54-450c-9086-27e4fc61f3d4</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">TopLevel</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">0</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">0</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_polygon type="a">0 </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<Attrs type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Attrs>
+			<Operations type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Operations>
+		</CGIClass>
+		<CGIBasicClass type="e">
+			<_id type="a">GUID 4f898d04-ff52-454f-b7f6-95f193bc3443</_id>
+			<m_type type="a">124</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IActor</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hname type="a">User</_hname>
+					<_hid type="a">GUID f9d816b5-9384-4955-9be6-2d025a75cac5</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 88cd1983-0186-488d-9ae6-bbc06a43f344</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">User</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">2056</m_drawBehavior>
+			<m_transform type="a">0.0489381 0 0 0.124343 4.38689 110.665 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_polygon type="a">4 176 252  176 1394  1259 1394  1259 252  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+		</CGIBasicClass>
+		<CGIBasicClass type="e">
+			<_id type="a">GUID 95a8106a-bba4-4624-b36a-c4af30d0fe83</_id>
+			<m_type type="a">125</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hname type="a">Klikniecie ikony</_hname>
+					<_hid type="a">GUID abdf1d1f-3cec-4ed4-8dd5-4eedb50ccd54</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 88cd1983-0186-488d-9ae6-bbc06a43f344</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">Klikniecie ikony</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">2056</m_drawBehavior>
+			<m_transform type="a">0.124004 0 0 0.0606909 84.248 186.061 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_polygon type="a">4 -2 -1  -2 1070  1127 1070  1127 -1  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+		</CGIBasicClass>
+		<CGIBasicClass type="e">
+			<_id type="a">GUID eddd7a57-d9a8-4cd1-8ad0-68223e463482</_id>
+			<m_type type="a">125</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hname type="a">Odpalanie aplikacji</_hname>
+					<_hid type="a">GUID 97d8122f-820d-47df-ac5e-0633027c7ff5</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 88cd1983-0186-488d-9ae6-bbc06a43f344</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">Odpalanie aplikacji</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">2056</m_drawBehavior>
+			<m_transform type="a">0.124004 0 0 0.0606909 266.248 186.061 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_polygon type="a">4 -2 -1  -2 1070  1127 1070  1127 -1  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+		</CGIBasicClass>
+		<CGIBasicClass type="e">
+			<_id type="a">GUID 46de1681-b4dc-43a7-9f04-c776cc9c986d</_id>
+			<m_type type="a">125</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hname type="a">Porownanie z normami</_hname>
+					<_hid type="a">GUID f22f1f8e-1da4-400e-9892-f7c7389cff20</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 88cd1983-0186-488d-9ae6-bbc06a43f344</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">Porownanie z normami</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">2056</m_drawBehavior>
+			<m_transform type="a">0.124004 0 0 0.0606909 648.248 284.061 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_polygon type="a">4 -2 -1  -2 1070  1127 1070  1127 -1  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+		</CGIBasicClass>
+		<CGIBasicClass type="e">
+			<_id type="a">GUID 0f340c78-1bc0-4e51-a803-254bac5f5f5b</_id>
+			<m_type type="a">125</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hname type="a">Lokalizowanie</_hname>
+					<_hid type="a">GUID 21f1309a-68d4-4c74-949d-0b0e1e09950b</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 88cd1983-0186-488d-9ae6-bbc06a43f344</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">Lokalizowanie</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">2056</m_drawBehavior>
+			<m_transform type="a">0.124004 0 0 0.0606909 452.248 186.061 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_polygon type="a">4 -2 -1  -2 1070  1127 1070  1127 -1  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+		</CGIBasicClass>
+		<CGIBasicClass type="e">
+			<_id type="a">GUID b9566d1d-7efb-463b-bdc5-1d3d2ea3c148</_id>
+			<m_type type="a">125</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hname type="a">Blad odpalania</_hname>
+					<_hid type="a">GUID d9d9398a-75d6-4e72-bd91-012c65d26b0a</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 88cd1983-0186-488d-9ae6-bbc06a43f344</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">Blad odpalania</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">2056</m_drawBehavior>
+			<m_transform type="a">0.124004 0 0 0.0606909 452.248 77.061 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_polygon type="a">4 -2 -1  -2 1070  1127 1070  1127 -1  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+		</CGIBasicClass>
+		<CGIBasicClass type="e">
+			<_id type="a">GUID 08a13366-0bd0-4258-b1c8-531597895207</_id>
+			<m_type type="a">125</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hname type="a">Dzia%B3anie aplikacji</_hname>
+					<_hid type="a">GUID 345c9454-13e3-4af2-a6f1-308b32fa1006</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 88cd1983-0186-488d-9ae6-bbc06a43f344</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">Dzia%B3anie aplikacji</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">2056</m_drawBehavior>
+			<m_transform type="a">0.124004 0 0 0.0606909 648.248 186.061 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_polygon type="a">4 -2 -1  -2 1070  1127 1070  1127 -1  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+		</CGIBasicClass>
+		<CGIAssociationEnd type="e">
+			<_id type="a">GUID 0b2e6948-ce19-4335-a83c-673db65a1d7e</_id>
+			<m_type type="a">92</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hclass type="a">Klikniecie ikony</_hclass>
+					<_hname type="a">itsUser</_hname>
+					<_hid type="a">GUID d281e2fd-8c41-432f-ad31-f2aa9176ed0c</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4096</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_pSource type="s">GUID 95a8106a-bba4-4624-b36a-c4af30d0fe83</m_pSource>
+			<m_sourceType type="a">'F'</m_sourceType>
+			<m_pTarget type="s">GUID 4f898d04-ff52-454f-b7f6-95f193bc3443</m_pTarget>
+			<m_targetType type="a">'T'</m_targetType>
+			<m_direction type="a">' '</m_direction>
+			<m_rpn type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">7</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_rpn>
+			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
+			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
+			<m_line_style type="a">0</m_line_style>
+			<m_SourcePort type="a">562 526 </m_SourcePort>
+			<m_TargetPort type="a">707 823 </m_TargetPort>
+			<m_pInverseModelObject type="r">
+				<IAssociationEndHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hclass type="a">User</_hclass>
+					<_hname type="a">itsKlikniecie ikony</_hname>
+					<_hid type="a">GUID 485ddb9d-a472-42fa-8982-c4b89919d3b9</_hid>
+				</IAssociationEndHandle>
+			</m_pInverseModelObject>
+			<m_pInstance type="r">
+				<IObjectLinkHandle type="e">
+				</IObjectLinkHandle>
+			</m_pInstance>
+			<m_pInverseInstance type="r">
+				<IObjectLinkHandle type="e">
+				</IObjectLinkHandle>
+			</m_pInverseInstance>
+			<m_bShowSourceMultiplicity type="a">0</m_bShowSourceMultiplicity>
+			<m_bShowSourceRole type="a">1</m_bShowSourceRole>
+			<m_bShowTargetMultiplicity type="a">0</m_bShowTargetMultiplicity>
+			<m_bShowTargetRole type="a">1</m_bShowTargetRole>
+			<m_bShowLinkName type="a">1</m_bShowLinkName>
+			<m_bShowSpecificType type="a">0</m_bShowSpecificType>
+			<m_bInstance type="a">0</m_bInstance>
+			<m_bShowQualifier1 type="a">0</m_bShowQualifier1>
+			<m_bShowQualifier2 type="a">0</m_bShowQualifier2>
+			<m_sourceRole type="p">
+				<CGIText type="e">
+					<m_str type="a">itsKlikniecie ikony</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">2</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">2</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_sourceRole>
+			<m_targetRole type="p">
+				<CGIText type="e">
+					<m_str type="a">itsUser</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">3</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">0</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_targetRole>
+			<m_sourceMultiplicity type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">4</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+				</CGIText>
+			</m_sourceMultiplicity>
+			<m_targetMultiplicity type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">5</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+				</CGIText>
+			</m_targetMultiplicity>
+			<m_sourceQualifier type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">6</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_sourceQualifier>
+			<m_targetQualifier type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">7</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_targetQualifier>
+			<m_specificType type="a">symmetric_type</m_specificType>
+		</CGIAssociationEnd>
+		<CGIInheritance type="e">
+			<_id type="a">GUID ad80aa57-8fa2-40c7-a332-97fde42131a7</_id>
+			<m_type type="a">128</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDependency</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hclass type="a">Klikniecie ikony</_hclass>
+					<_hname type="a">Odpalanie aplikacji</_hname>
+					<_hid type="a">GUID ac3a2de6-c369-4089-88f6-4841bdaba69d</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">Odbior sygnalu</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4104</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_pSource type="s">GUID 95a8106a-bba4-4624-b36a-c4af30d0fe83</m_pSource>
+			<m_sourceType type="a">'F'</m_sourceType>
+			<m_pTarget type="s">GUID eddd7a57-d9a8-4cd1-8ad0-68223e463482</m_pTarget>
+			<m_targetType type="a">'T'</m_targetType>
+			<m_direction type="a">' '</m_direction>
+			<m_rpn type="p">
+				<CGIText type="e">
+					<m_str type="a">include</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_rpn>
+			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
+			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
+			<m_line_style type="a">0</m_line_style>
+			<m_SourcePort type="a">562 526 </m_SourcePort>
+			<m_TargetPort type="a">563 526 </m_TargetPort>
+			<m_ShowName type="a">0</m_ShowName>
+			<m_ShowStereotype type="a">1</m_ShowStereotype>
+		</CGIInheritance>
+		<CGIBasicClass type="e">
+			<_id type="a">GUID ce340698-3151-43cc-b22a-91b8225ef86a</_id>
+			<m_type type="a">125</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hname type="a">Wykonie pomiaru</_hname>
+					<_hid type="a">GUID 1f095ebc-1e0d-4a46-a247-42030664d1a1</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 88cd1983-0186-488d-9ae6-bbc06a43f344</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">Wykonie pomiaru</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">2056</m_drawBehavior>
+			<m_transform type="a">0.124004 0 0 0.0606909 648.248 387.061 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_polygon type="a">4 -2 -1  -2 1070  1127 1070  1127 -1  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+		</CGIBasicClass>
+		<CGIBasicClass type="e">
+			<_id type="a">GUID a2659f25-673f-4505-9327-0c89718f67d4</_id>
+			<m_type type="a">125</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hname type="a">Wysylanie powiadomien</_hname>
+					<_hid type="a">GUID 35396c17-b77b-441e-ba3a-6152fc4e626f</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 88cd1983-0186-488d-9ae6-bbc06a43f344</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">Wysylanie powiadomien</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">2056</m_drawBehavior>
+			<m_transform type="a">0.124004 0 0 0.0606909 648.248 77.0607 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_polygon type="a">4 -2 -1  -2 1070  1127 1070  1127 -1  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+		</CGIBasicClass>
+		<CGIInheritance type="e">
+			<_id type="a">GUID 9c6a3729-947b-495b-ac97-b5fc20d6cf50</_id>
+			<m_type type="a">128</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDependency</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hclass type="a">Wysylanie powiadomien</_hclass>
+					<_hname type="a">Dzia%B3anie aplikacji</_hname>
+					<_hid type="a">GUID 1136b7ca-69b3-4f95-a8c8-3a5bae5ee012</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">Jazda</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4104</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_pSource type="s">GUID a2659f25-673f-4505-9327-0c89718f67d4</m_pSource>
+			<m_sourceType type="a">'F'</m_sourceType>
+			<m_pTarget type="s">GUID 08a13366-0bd0-4258-b1c8-531597895207</m_pTarget>
+			<m_targetType type="a">'T'</m_targetType>
+			<m_direction type="a">' '</m_direction>
+			<m_rpn type="p">
+				<CGIText type="e">
+					<m_str type="a">extend</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_rpn>
+			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
+			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
+			<m_line_style type="a">0</m_line_style>
+			<m_SourcePort type="a">563 526 </m_SourcePort>
+			<m_TargetPort type="a">595 -1 </m_TargetPort>
+			<m_ShowName type="a">0</m_ShowName>
+			<m_ShowStereotype type="a">1</m_ShowStereotype>
+		</CGIInheritance>
+		<CGIInheritance type="e">
+			<_id type="a">GUID 48f9d0fc-85d7-4c06-8d4f-5a271d897392</_id>
+			<m_type type="a">128</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDependency</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hclass type="a">Dzia%B3anie aplikacji</_hclass>
+					<_hname type="a">Porownanie z normami</_hname>
+					<_hid type="a">GUID a2668d76-3774-47ce-8960-d74d3fda1840</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">Detekcja kolizji</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4104</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_pSource type="s">GUID 08a13366-0bd0-4258-b1c8-531597895207</m_pSource>
+			<m_sourceType type="a">'F'</m_sourceType>
+			<m_pTarget type="s">GUID 46de1681-b4dc-43a7-9f04-c776cc9c986d</m_pTarget>
+			<m_targetType type="a">'T'</m_targetType>
+			<m_direction type="a">' '</m_direction>
+			<m_rpn type="p">
+				<CGIText type="e">
+					<m_str type="a">include</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_rpn>
+			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
+			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
+			<m_line_style type="a">0</m_line_style>
+			<m_SourcePort type="a">562 526 </m_SourcePort>
+			<m_TargetPort type="a">562 526 </m_TargetPort>
+			<m_ShowName type="a">0</m_ShowName>
+			<m_ShowStereotype type="a">1</m_ShowStereotype>
+		</CGIInheritance>
+		<CGIInheritance type="e">
+			<_id type="a">GUID 85196e10-5ae5-48ad-adb3-2634949eb694</_id>
+			<m_type type="a">128</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDependency</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hclass type="a">Wykonie pomiaru</_hclass>
+					<_hname type="a">Porownanie z normami</_hname>
+					<_hid type="a">GUID df7eee75-8435-4fa0-bd28-9d70bf4f5ea5</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">Detekcja kolizji</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4104</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_pSource type="s">GUID ce340698-3151-43cc-b22a-91b8225ef86a</m_pSource>
+			<m_sourceType type="a">'F'</m_sourceType>
+			<m_pTarget type="s">GUID 46de1681-b4dc-43a7-9f04-c776cc9c986d</m_pTarget>
+			<m_targetType type="a">'T'</m_targetType>
+			<m_direction type="a">' '</m_direction>
+			<m_rpn type="p">
+				<CGIText type="e">
+					<m_str type="a">include</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_rpn>
+			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
+			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
+			<m_line_style type="a">0</m_line_style>
+			<m_SourcePort type="a">563 526 </m_SourcePort>
+			<m_TargetPort type="a">562 526 </m_TargetPort>
+			<m_ShowName type="a">0</m_ShowName>
+			<m_ShowStereotype type="a">1</m_ShowStereotype>
+		</CGIInheritance>
+		<CGIBasicClass type="e">
+			<_id type="a">GUID 1fbb8cec-b72e-42cf-b405-87e435c53c68</_id>
+			<m_type type="a">124</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IActor</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hname type="a">Zanieczyszczenia</_hname>
+					<_hid type="a">GUID 44e8138e-c759-41c5-9063-cab1df117bd5</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 88cd1983-0186-488d-9ae6-bbc06a43f344</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">Zanieczyszczenia</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">2056</m_drawBehavior>
+			<m_transform type="a">0.0489381 0 0 0.124343 869.387 317.665 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_polygon type="a">4 176 252  176 1394  1259 1394  1259 252  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+		</CGIBasicClass>
+		<CGIAssociationEnd type="e">
+			<_id type="a">GUID 08d6d654-87ae-40ac-8313-058ca23793b2</_id>
+			<m_type type="a">94</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hclass type="a">Wykonie pomiaru</_hclass>
+					<_hname type="a">itsZanieczyszczenia</_hname>
+					<_hid type="a">GUID 7d785fe1-5ea7-4668-b5b0-c52789447a92</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4096</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_pSource type="s">GUID ce340698-3151-43cc-b22a-91b8225ef86a</m_pSource>
+			<m_sourceType type="a">'F'</m_sourceType>
+			<m_pTarget type="s">GUID 1fbb8cec-b72e-42cf-b405-87e435c53c68</m_pTarget>
+			<m_targetType type="a">'T'</m_targetType>
+			<m_direction type="a">' '</m_direction>
+			<m_rpn type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">7</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_rpn>
+			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
+			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
+			<m_line_style type="a">0</m_line_style>
+			<m_SourcePort type="a">562 526 </m_SourcePort>
+			<m_TargetPort type="a">707 823 </m_TargetPort>
+			<m_pInverseModelObject type="r">
+				<IAssociationEndHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hclass type="a">Zanieczyszczenia</_hclass>
+					<_hname type="a">itsWykonie pomiaru</_hname>
+					<_hid type="a">GUID 37f39759-368e-49e2-bdae-d79fbae3fb69</_hid>
+				</IAssociationEndHandle>
+			</m_pInverseModelObject>
+			<m_pInstance type="r">
+				<IObjectLinkHandle type="e">
+				</IObjectLinkHandle>
+			</m_pInstance>
+			<m_pInverseInstance type="r">
+				<IObjectLinkHandle type="e">
+				</IObjectLinkHandle>
+			</m_pInverseInstance>
+			<m_bShowSourceMultiplicity type="a">0</m_bShowSourceMultiplicity>
+			<m_bShowSourceRole type="a">1</m_bShowSourceRole>
+			<m_bShowTargetMultiplicity type="a">0</m_bShowTargetMultiplicity>
+			<m_bShowTargetRole type="a">1</m_bShowTargetRole>
+			<m_bShowLinkName type="a">1</m_bShowLinkName>
+			<m_bShowSpecificType type="a">0</m_bShowSpecificType>
+			<m_bInstance type="a">0</m_bInstance>
+			<m_bShowQualifier1 type="a">0</m_bShowQualifier1>
+			<m_bShowQualifier2 type="a">0</m_bShowQualifier2>
+			<m_sourceRole type="p">
+				<CGIText type="e">
+					<m_str type="a">itsWykonie pomiaru</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">2</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">0</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_sourceRole>
+			<m_targetRole type="p">
+				<CGIText type="e">
+					<m_str type="a">itsZanieczyszczenia</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">3</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">2</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_targetRole>
+			<m_sourceMultiplicity type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">4</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+				</CGIText>
+			</m_sourceMultiplicity>
+			<m_targetMultiplicity type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">5</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+				</CGIText>
+			</m_targetMultiplicity>
+			<m_sourceQualifier type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">6</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_sourceQualifier>
+			<m_targetQualifier type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">7</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_targetQualifier>
+			<m_specificType type="a">symmetric_type</m_specificType>
+		</CGIAssociationEnd>
+		<CGIInheritance type="e">
+			<_id type="a">GUID 8b9ff9b7-fc40-43a2-9189-2c9ee6f5e7ef</_id>
+			<m_type type="a">128</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDependency</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hclass type="a">Blad odpalania</_hclass>
+					<_hname type="a">Odpalanie aplikacji</_hname>
+					<_hid type="a">GUID 542cb304-79af-445b-a225-7b545dc2edc3</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">Odpalanie aplikacji</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4104</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_pSource type="s">GUID b9566d1d-7efb-463b-bdc5-1d3d2ea3c148</m_pSource>
+			<m_sourceType type="a">'F'</m_sourceType>
+			<m_pTarget type="s">GUID eddd7a57-d9a8-4cd1-8ad0-68223e463482</m_pTarget>
+			<m_targetType type="a">'T'</m_targetType>
+			<m_direction type="a">' '</m_direction>
+			<m_rpn type="p">
+				<CGIText type="e">
+					<m_str type="a">extend</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_rpn>
+			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
+			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
+			<m_line_style type="a">0</m_line_style>
+			<m_SourcePort type="a">562 526 </m_SourcePort>
+			<m_TargetPort type="a">562 526 </m_TargetPort>
+			<m_ShowName type="a">0</m_ShowName>
+			<m_ShowStereotype type="a">1</m_ShowStereotype>
+		</CGIInheritance>
+		<CGIInheritance type="e">
+			<_id type="a">GUID 42f7d17e-76e3-40b8-bbd3-ad8d7f960b93</_id>
+			<m_type type="a">128</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDependency</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hclass type="a">Lokalizowanie</_hclass>
+					<_hname type="a">Odpalanie aplikacji</_hname>
+					<_hid type="a">GUID d8b1ab38-f560-4c3b-9e17-f65f680269b5</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">Odpalanie aplikacji</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4104</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_pSource type="s">GUID 0f340c78-1bc0-4e51-a803-254bac5f5f5b</m_pSource>
+			<m_sourceType type="a">'F'</m_sourceType>
+			<m_pTarget type="s">GUID eddd7a57-d9a8-4cd1-8ad0-68223e463482</m_pTarget>
+			<m_targetType type="a">'T'</m_targetType>
+			<m_direction type="a">' '</m_direction>
+			<m_rpn type="p">
+				<CGIText type="e">
+					<m_str type="a">extend</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_rpn>
+			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
+			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
+			<m_line_style type="a">0</m_line_style>
+			<m_SourcePort type="a">562 526 </m_SourcePort>
+			<m_TargetPort type="a">562 526 </m_TargetPort>
+			<m_ShowName type="a">0</m_ShowName>
+			<m_ShowStereotype type="a">1</m_ShowStereotype>
+		</CGIInheritance>
+		<CGIInheritance type="e">
+			<_id type="a">GUID b46866b2-936b-4b7c-893b-3be335eeb3b5</_id>
+			<m_type type="a">128</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDependency</_hm2Class>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hclass type="a">Lokalizowanie</_hclass>
+					<_hname type="a">Dzia%B3anie aplikacji</_hname>
+					<_hid type="a">GUID b3689bd5-6cfa-4140-9fe9-40cf0b22f21a</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">Dzia%B3anie aplikacji</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4104</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_pSource type="s">GUID 0f340c78-1bc0-4e51-a803-254bac5f5f5b</m_pSource>
+			<m_sourceType type="a">'F'</m_sourceType>
+			<m_pTarget type="s">GUID 08a13366-0bd0-4258-b1c8-531597895207</m_pTarget>
+			<m_targetType type="a">'T'</m_targetType>
+			<m_direction type="a">' '</m_direction>
+			<m_rpn type="p">
+				<CGIText type="e">
+					<m_str type="a">include</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_rpn>
+			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
+			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
+			<m_line_style type="a">0</m_line_style>
+			<m_SourcePort type="a">562 526 </m_SourcePort>
+			<m_TargetPort type="a">562 526 </m_TargetPort>
+			<m_ShowName type="a">0</m_ShowName>
+			<m_ShowStereotype type="a">1</m_ShowStereotype>
+		</CGIInheritance>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

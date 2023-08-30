@@ -1,0 +1,1870 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1250</CODE-PAGE>
+	<version>100.831.0</version>
+	<lang>*</lang>
+	<BuildNo>9835550</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<CGEMdiWorkspace type="e">
+			<stubList type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</stubList>
+			<isLoadOnDemand type="a">0</isLoadOnDemand>
+			<myViewsWithID type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">55</size>
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">100</m_nLeft>
+								<m_nTop type="a">100</m_nTop>
+								<m_nRight type="a">372</m_nRight>
+								<m_nBottom type="a">525</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IStateChartDiagram</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Aplikacja</_hclass>
+								<_hname type="a">StatechartDiagram</_hname>
+								<_hid type="a">GUID ea0d9626-9f6d-4a2c-9f4e-5ec2fc75a1eb</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 197 </_UpLeft>
+						<_DownRight type="a">235 563 </_DownRight>
+						<m_nDiagramIndex type="a">21</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">50</m_nLeft>
+								<m_nTop type="a">50</m_nTop>
+								<m_nRight type="a">322</m_nRight>
+								<m_nBottom type="a">475</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Blad odpalania</_hclass>
+								<_hname type="a">Animated Animated Blad w lokalizowaniu</_hname>
+								<_hid type="a">GUID 1cd3750f-779a-431d-914e-43e55aa88b72</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">235 346 </_DownRight>
+						<m_nDiagramIndex type="a">22</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">2</m_nFlags>
+								<m_showCmd type="a">3</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">0</m_nLeft>
+								<m_nTop type="a">0</m_nTop>
+								<m_nRight type="a">1334</m_nRight>
+								<m_nBottom type="a">249</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Blad odpalania</_hclass>
+								<_hname type="a">Animated Animated Blad w lokalizowaniu_0</_hname>
+								<_hid type="a">GUID 4e97bbbf-dbb2-4a50-a4b2-fa57be0d1428</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1413 308 </_DownRight>
+						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
+						<m_bIsActiveView type="a">1</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">75</m_nLeft>
+								<m_nTop type="a">75</m_nTop>
+								<m_nRight type="a">1321</m_nRight>
+								<m_nBottom type="a">433</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Blad odpalania</_hclass>
+								<_hname type="a">Animated Blad w lokalizowaniu</_hname>
+								<_hid type="a">GUID f646d2f2-49b1-4aed-9aa8-fc78ebdd8209</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1949 450 </_DownRight>
+						<m_nDiagramIndex type="a">47</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">25</m_nLeft>
+								<m_nTop type="a">25</m_nTop>
+								<m_nRight type="a">297</m_nRight>
+								<m_nBottom type="a">450</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Blad odpalania</_hclass>
+								<_hname type="a">Animated Blad w lokalizowaniu_0</_hname>
+								<_hid type="a">GUID 2272d238-a138-4b71-a884-43e86b1a2d38</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">235 346 </_DownRight>
+						<m_nDiagramIndex type="a">32</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">0</m_nLeft>
+								<m_nTop type="a">0</m_nTop>
+								<m_nRight type="a">1334</m_nRight>
+								<m_nBottom type="a">249</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Blad odpalania</_hclass>
+								<_hname type="a">Animated Blad w lokalizowaniu_2</_hname>
+								<_hid type="a">GUID 59a4e8b0-8f89-48bb-9a4d-ed2893be45c1</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1297 170 </_DownRight>
+						<m_nDiagramIndex type="a">10</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">0</m_nLeft>
+								<m_nTop type="a">0</m_nTop>
+								<m_nRight type="a">970</m_nRight>
+								<m_nBottom type="a">542</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Blad odpalania</_hclass>
+								<_hname type="a">Blad w lokalizowaniu</_hname>
+								<_hid type="a">GUID 5563c25f-73f8-4055-9cef-eb81cf9c4218</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">51 0 </_UpLeft>
+						<_DownRight type="a">984 463 </_DownRight>
+						<m_nDiagramIndex type="a">41</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">75</m_nLeft>
+								<m_nTop type="a">75</m_nTop>
+								<m_nRight type="a">347</m_nRight>
+								<m_nBottom type="a">500</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IStateChartDiagram</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Czujnik</_hclass>
+								<_hname type="a">StatechartDiagram</_hname>
+								<_hid type="a">GUID 9d4a710e-daaa-4f85-9d6b-cc05e4b29296</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">235 366 </_DownRight>
+						<m_nDiagramIndex type="a">17</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">175</m_nLeft>
+								<m_nTop type="a">175</m_nTop>
+								<m_nRight type="a">447</m_nRight>
+								<m_nBottom type="a">600</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Dzia%B3anie aplikacji</_hclass>
+								<_hname type="a">Animated Animated Dzia%B3anie aplikacji</_hname>
+								<_hid type="a">GUID 1d158340-3974-4730-b9f5-48ef088c63f3</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">235 346 </_DownRight>
+						<m_nDiagramIndex type="a">26</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">25</m_nLeft>
+								<m_nTop type="a">25</m_nTop>
+								<m_nRight type="a">1359</m_nRight>
+								<m_nBottom type="a">274</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Dzia%B3anie aplikacji</_hclass>
+								<_hname type="a">Animated Animated Dzia%B3anie aplikacji_0</_hname>
+								<_hid type="a">GUID cf259c5c-d175-45b5-a530-26e31f1ac35c</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1297 170 </_DownRight>
+						<m_nDiagramIndex type="a">4</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">150</m_nLeft>
+								<m_nTop type="a">150</m_nTop>
+								<m_nRight type="a">1396</m_nRight>
+								<m_nBottom type="a">508</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Dzia%B3anie aplikacji</_hclass>
+								<_hname type="a">Animated Dzia%B3anie aplikacji</_hname>
+								<_hid type="a">GUID c9f56d7d-6566-4f89-be23-2c0201e1aeac</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1209 279 </_DownRight>
+						<m_nDiagramIndex type="a">51</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">175</m_nLeft>
+								<m_nTop type="a">175</m_nTop>
+								<m_nRight type="a">447</m_nRight>
+								<m_nBottom type="a">600</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Dzia%B3anie aplikacji</_hclass>
+								<_hname type="a">Animated Dzia%B3anie aplikacji_0</_hname>
+								<_hid type="a">GUID fe544d66-e38c-42ad-8e08-3258f1f3fa3b</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">235 346 </_DownRight>
+						<m_nDiagramIndex type="a">35</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">50</m_nLeft>
+								<m_nTop type="a">50</m_nTop>
+								<m_nRight type="a">1384</m_nRight>
+								<m_nBottom type="a">299</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Dzia%B3anie aplikacji</_hclass>
+								<_hname type="a">Animated Dzia%B3anie aplikacji_2</_hname>
+								<_hid type="a">GUID f2b87cd0-c972-4e8d-ae96-9f6d8cf9662b</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1297 170 </_DownRight>
+						<m_nDiagramIndex type="a">13</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">25</m_nLeft>
+								<m_nTop type="a">25</m_nTop>
+								<m_nRight type="a">366</m_nRight>
+								<m_nBottom type="a">450</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Dzia%B3anie aplikacji</_hclass>
+								<_hname type="a">Dzia%B3anie aplikacji</_hname>
+								<_hid type="a">GUID a42290bd-a9a9-4714-a497-2ea2cc571b1d</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">65 0 </_UpLeft>
+						<_DownRight type="a">369 346 </_DownRight>
+						<m_nDiagramIndex type="a">39</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">175</m_nLeft>
+								<m_nTop type="a">175</m_nTop>
+								<m_nRight type="a">1145</m_nRight>
+								<m_nBottom type="a">609</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IStateChartDiagram</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Ikona</_hclass>
+								<_hname type="a">StatechartDiagram</_hname>
+								<_hid type="a">GUID 3b23fa2e-7aad-4dce-91ed-f68615a0ae70</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">357 0 </_UpLeft>
+						<_DownRight type="a">1290 375 </_DownRight>
+						<m_nDiagramIndex type="a">45</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">100</m_nLeft>
+								<m_nTop type="a">100</m_nTop>
+								<m_nRight type="a">372</m_nRight>
+								<m_nBottom type="a">525</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Klikniecie ikony</_hclass>
+								<_hname type="a">Animated Animated Klikniecie ikony</_hname>
+								<_hid type="a">GUID a8b64ab6-cc1a-45e4-9ef7-f39ef9d97d08</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">235 346 </_DownRight>
+						<m_nDiagramIndex type="a">29</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">75</m_nLeft>
+								<m_nTop type="a">75</m_nTop>
+								<m_nRight type="a">1409</m_nRight>
+								<m_nBottom type="a">324</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Klikniecie ikony</_hclass>
+								<_hname type="a">Animated Animated Klikniecie ikony_0</_hname>
+								<_hid type="a">GUID 0d622565-0e33-4f45-9815-f4cd6e1a62da</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1297 170 </_DownRight>
+						<m_nDiagramIndex type="a">7</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">75</m_nLeft>
+								<m_nTop type="a">75</m_nTop>
+								<m_nRight type="a">1321</m_nRight>
+								<m_nBottom type="a">433</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Klikniecie ikony</_hclass>
+								<_hname type="a">Animated Klikniecie ikony</_hname>
+								<_hid type="a">GUID 885fce3e-053b-431c-b7e4-1a59f82e2f2f</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1209 279 </_DownRight>
+						<m_nDiagramIndex type="a">54</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">200</m_nLeft>
+								<m_nTop type="a">200</m_nTop>
+								<m_nRight type="a">472</m_nRight>
+								<m_nBottom type="a">625</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Klikniecie ikony</_hclass>
+								<_hname type="a">Animated Klikniecie ikony_0</_hname>
+								<_hid type="a">GUID c32293b1-ed9c-490c-a00f-dfd4a94f465c</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">235 346 </_DownRight>
+						<m_nDiagramIndex type="a">34</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">75</m_nLeft>
+								<m_nTop type="a">75</m_nTop>
+								<m_nRight type="a">1409</m_nRight>
+								<m_nBottom type="a">324</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Klikniecie ikony</_hclass>
+								<_hname type="a">Animated Klikniecie ikony_2</_hname>
+								<_hid type="a">GUID 8530f0e0-ff54-4823-9ec5-d721115bf94e</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1297 170 </_DownRight>
+						<m_nDiagramIndex type="a">12</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">75</m_nLeft>
+								<m_nTop type="a">75</m_nTop>
+								<m_nRight type="a">475</m_nRight>
+								<m_nBottom type="a">500</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Klikniecie ikony</_hclass>
+								<_hname type="a">Klikniecie ikony</_hname>
+								<_hid type="a">GUID 634dd361-b584-48f0-81f0-944dc2b43d3c</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">363 346 </_DownRight>
+						<m_nDiagramIndex type="a">19</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">150</m_nLeft>
+								<m_nTop type="a">150</m_nTop>
+								<m_nRight type="a">422</m_nRight>
+								<m_nBottom type="a">575</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Lokalizowanie</_hclass>
+								<_hname type="a">Animated Animated Lokalizowanie</_hname>
+								<_hid type="a">GUID fabb42b3-adcd-4c3d-9d79-ec341d967d07</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">235 346 </_DownRight>
+						<m_nDiagramIndex type="a">27</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">0</m_nLeft>
+								<m_nTop type="a">0</m_nTop>
+								<m_nRight type="a">1334</m_nRight>
+								<m_nBottom type="a">249</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Lokalizowanie</_hclass>
+								<_hname type="a">Animated Animated Lokalizowanie_0</_hname>
+								<_hid type="a">GUID 50de9f50-9730-4f3b-8e8d-7c168305208b</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1297 170 </_DownRight>
+						<m_nDiagramIndex type="a">5</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">125</m_nLeft>
+								<m_nTop type="a">125</m_nTop>
+								<m_nRight type="a">1371</m_nRight>
+								<m_nBottom type="a">483</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Lokalizowanie</_hclass>
+								<_hname type="a">Animated Lokalizowanie</_hname>
+								<_hid type="a">GUID d569ad4f-64ed-44bf-a62c-1259223ea141</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1209 279 </_DownRight>
+						<m_nDiagramIndex type="a">52</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">150</m_nLeft>
+								<m_nTop type="a">150</m_nTop>
+								<m_nRight type="a">422</m_nRight>
+								<m_nBottom type="a">575</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Lokalizowanie</_hclass>
+								<_hname type="a">Animated Lokalizowanie_0</_hname>
+								<_hid type="a">GUID 18831447-31dd-46d2-b801-f1d92b76b4da</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">235 346 </_DownRight>
+						<m_nDiagramIndex type="a">36</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">25</m_nLeft>
+								<m_nTop type="a">25</m_nTop>
+								<m_nRight type="a">1359</m_nRight>
+								<m_nBottom type="a">274</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Lokalizowanie</_hclass>
+								<_hname type="a">Animated Lokalizowanie_2</_hname>
+								<_hid type="a">GUID 8108b37b-4f53-48e2-8e18-92cf4fcc6093</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1297 170 </_DownRight>
+						<m_nDiagramIndex type="a">14</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">200</m_nLeft>
+								<m_nTop type="a">200</m_nTop>
+								<m_nRight type="a">541</m_nRight>
+								<m_nBottom type="a">625</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Lokalizowanie</_hclass>
+								<_hname type="a">Lokalizowanie</_hname>
+								<_hid type="a">GUID badca2db-d285-42a2-a225-cab5381d2995</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">304 346 </_DownRight>
+						<m_nDiagramIndex type="a">42</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">25</m_nLeft>
+								<m_nTop type="a">25</m_nTop>
+								<m_nRight type="a">369</m_nRight>
+								<m_nBottom type="a">450</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IStateChartDiagram</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Norma</_hclass>
+								<_hname type="a">StatechartDiagram</_hname>
+								<_hid type="a">GUID f92db939-b59b-4b29-a9c5-4d2e951d94fb</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 -25 </_UpLeft>
+						<_DownRight type="a">307 341 </_DownRight>
+						<m_nDiagramIndex type="a">18</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">0</m_nLeft>
+								<m_nTop type="a">0</m_nTop>
+								<m_nRight type="a">191</m_nRight>
+								<m_nBottom type="a">425</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IStateChartDiagram</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">OdbiornikGPS</_hclass>
+								<_hname type="a">StatechartDiagram</_hname>
+								<_hid type="a">GUID 374ba44b-48bb-40bb-9df3-706d892babaa</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">154 366 </_DownRight>
+						<m_nDiagramIndex type="a">20</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">125</m_nLeft>
+								<m_nTop type="a">125</m_nTop>
+								<m_nRight type="a">397</m_nRight>
+								<m_nBottom type="a">550</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Odpalanie aplikacji</_hclass>
+								<_hname type="a">Animated Animated Odpalanie aplikacji</_hname>
+								<_hid type="a">GUID 928a2dbe-34b1-462b-9924-a38e29d6ad4a</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">235 346 </_DownRight>
+						<m_nDiagramIndex type="a">28</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">100</m_nLeft>
+								<m_nTop type="a">100</m_nTop>
+								<m_nRight type="a">1434</m_nRight>
+								<m_nBottom type="a">349</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Odpalanie aplikacji</_hclass>
+								<_hname type="a">Animated Animated Odpalanie aplikacji_0</_hname>
+								<_hid type="a">GUID 11d97cc9-779e-4d4a-a9f4-ef1d0e1f2f3e</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1297 170 </_DownRight>
+						<m_nDiagramIndex type="a">6</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">100</m_nLeft>
+								<m_nTop type="a">100</m_nTop>
+								<m_nRight type="a">1346</m_nRight>
+								<m_nBottom type="a">458</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Odpalanie aplikacji</_hclass>
+								<_hname type="a">Animated Odpalanie aplikacji</_hname>
+								<_hid type="a">GUID 8cbc8161-361d-4ccf-b926-8fde3628da15</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1209 279 </_DownRight>
+						<m_nDiagramIndex type="a">53</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">125</m_nLeft>
+								<m_nTop type="a">125</m_nTop>
+								<m_nRight type="a">397</m_nRight>
+								<m_nBottom type="a">550</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Odpalanie aplikacji</_hclass>
+								<_hname type="a">Animated Odpalanie aplikacji_0</_hname>
+								<_hid type="a">GUID 7e9e96d7-bab4-4d9e-b632-74d3fe86189f</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">235 346 </_DownRight>
+						<m_nDiagramIndex type="a">37</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">0</m_nLeft>
+								<m_nTop type="a">0</m_nTop>
+								<m_nRight type="a">1334</m_nRight>
+								<m_nBottom type="a">249</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Odpalanie aplikacji</_hclass>
+								<_hname type="a">Animated Odpalanie aplikacji_2</_hname>
+								<_hid type="a">GUID 694ac272-b472-4882-84c2-db02591666ec</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1297 170 </_DownRight>
+						<m_nDiagramIndex type="a">15</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">100</m_nLeft>
+								<m_nTop type="a">100</m_nTop>
+								<m_nRight type="a">441</m_nRight>
+								<m_nBottom type="a">525</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Odpalanie aplikacji</_hclass>
+								<_hname type="a">Odpalanie aplikacji</_hname>
+								<_hid type="a">GUID 58849f6c-60dc-4228-ade7-c45b4278c603</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 50 </_UpLeft>
+						<_DownRight type="a">304 396 </_DownRight>
+						<m_nDiagramIndex type="a">40</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">200</m_nLeft>
+								<m_nTop type="a">200</m_nTop>
+								<m_nRight type="a">472</m_nRight>
+								<m_nBottom type="a">625</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Porownanie z normami</_hclass>
+								<_hname type="a">Animated Animated Porownanie z normami</_hname>
+								<_hid type="a">GUID f30ebedb-44ba-4bf8-b762-bc98cb43412a</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">235 346 </_DownRight>
+						<m_nDiagramIndex type="a">25</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">50</m_nLeft>
+								<m_nTop type="a">50</m_nTop>
+								<m_nRight type="a">1384</m_nRight>
+								<m_nBottom type="a">299</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Porownanie z normami</_hclass>
+								<_hname type="a">Animated Animated Porownanie z normami_0</_hname>
+								<_hid type="a">GUID 648892bd-5ab9-48be-81c9-4b600d24b22f</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1297 170 </_DownRight>
+						<m_nDiagramIndex type="a">3</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">0</m_nLeft>
+								<m_nTop type="a">0</m_nTop>
+								<m_nRight type="a">1246</m_nRight>
+								<m_nBottom type="a">358</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Porownanie z normami</_hclass>
+								<_hname type="a">Animated Porownanie z normami</_hname>
+								<_hid type="a">GUID 4ff145cb-8a27-49e0-a945-5c25231395ad</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1209 279 </_DownRight>
+						<m_nDiagramIndex type="a">50</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">75</m_nLeft>
+								<m_nTop type="a">75</m_nTop>
+								<m_nRight type="a">347</m_nRight>
+								<m_nBottom type="a">500</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Porownanie z normami</_hclass>
+								<_hname type="a">Animated Porownanie z normami_0</_hname>
+								<_hid type="a">GUID 03480c0c-0c59-4736-9ff4-847dde453f33</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">235 346 </_DownRight>
+						<m_nDiagramIndex type="a">30</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">50</m_nLeft>
+								<m_nTop type="a">50</m_nTop>
+								<m_nRight type="a">1384</m_nRight>
+								<m_nBottom type="a">299</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Porownanie z normami</_hclass>
+								<_hname type="a">Animated Porownanie z normami_2</_hname>
+								<_hid type="a">GUID 0ffdc58a-b8d6-409c-a286-0ba407c7b107</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1297 170 </_DownRight>
+						<m_nDiagramIndex type="a">8</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">50</m_nLeft>
+								<m_nTop type="a">50</m_nTop>
+								<m_nRight type="a">391</m_nRight>
+								<m_nBottom type="a">475</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Porownanie z normami</_hclass>
+								<_hname type="a">Porownanie z normami</_hname>
+								<_hid type="a">GUID 392738b5-0811-4d96-8c17-d26052ecb535</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">304 346 </_DownRight>
+						<m_nDiagramIndex type="a">38</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">50</m_nLeft>
+								<m_nTop type="a">50</m_nTop>
+								<m_nRight type="a">322</m_nRight>
+								<m_nBottom type="a">475</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IStateChartDiagram</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">PowiadomieniePrz</_hclass>
+								<_hname type="a">StatechartDiagram</_hname>
+								<_hid type="a">GUID fb06ba83-ba32-45fd-875f-4700f10fbab2</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">235 366 </_DownRight>
+						<m_nDiagramIndex type="a">16</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">25</m_nLeft>
+								<m_nTop type="a">25</m_nTop>
+								<m_nRight type="a">297</m_nRight>
+								<m_nBottom type="a">450</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Wykonie pomiaru</_hclass>
+								<_hname type="a">Animated Animated Wykonanie pomiaru</_hname>
+								<_hid type="a">GUID bbf2d9e2-99a4-4408-9294-a61aded591f6</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">235 346 </_DownRight>
+						<m_nDiagramIndex type="a">23</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">100</m_nLeft>
+								<m_nTop type="a">100</m_nTop>
+								<m_nRight type="a">1434</m_nRight>
+								<m_nBottom type="a">349</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Wykonie pomiaru</_hclass>
+								<_hname type="a">Animated Animated Wykonanie pomiaru_0</_hname>
+								<_hid type="a">GUID fcbbe645-ae32-4935-9669-557aa51d6a37</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1297 170 </_DownRight>
+						<m_nDiagramIndex type="a">1</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">50</m_nLeft>
+								<m_nTop type="a">50</m_nTop>
+								<m_nRight type="a">1296</m_nRight>
+								<m_nBottom type="a">408</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Wykonie pomiaru</_hclass>
+								<_hname type="a">Animated Wykonanie pomiaru</_hname>
+								<_hid type="a">GUID 0848ee4d-258c-453c-863a-6b198bd75949</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1209 279 </_DownRight>
+						<m_nDiagramIndex type="a">48</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">50</m_nLeft>
+								<m_nTop type="a">50</m_nTop>
+								<m_nRight type="a">322</m_nRight>
+								<m_nBottom type="a">475</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Wykonie pomiaru</_hclass>
+								<_hname type="a">Animated Wykonanie pomiaru_0</_hname>
+								<_hid type="a">GUID 635770f8-2b59-4bd8-9056-75019f768055</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">235 346 </_DownRight>
+						<m_nDiagramIndex type="a">31</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">25</m_nLeft>
+								<m_nTop type="a">25</m_nTop>
+								<m_nRight type="a">1359</m_nRight>
+								<m_nBottom type="a">274</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Wykonie pomiaru</_hclass>
+								<_hname type="a">Animated Wykonanie pomiaru_2</_hname>
+								<_hid type="a">GUID 832ced06-7e80-4099-bc6f-d4fc5b218d66</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1297 170 </_DownRight>
+						<m_nDiagramIndex type="a">9</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">100</m_nLeft>
+								<m_nTop type="a">100</m_nTop>
+								<m_nRight type="a">441</m_nRight>
+								<m_nBottom type="a">525</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Wykonie pomiaru</_hclass>
+								<_hname type="a">Wykonanie pomiaru</_hname>
+								<_hid type="a">GUID de799530-f7c7-4b08-acc4-011339bc0026</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">304 346 </_DownRight>
+						<m_nDiagramIndex type="a">55</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">0</m_nLeft>
+								<m_nTop type="a">0</m_nTop>
+								<m_nRight type="a">272</m_nRight>
+								<m_nBottom type="a">425</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Wysylanie powiadomien</_hclass>
+								<_hname type="a">Animated Animated Wysylanie powiadomien</_hname>
+								<_hid type="a">GUID d878bff8-3f35-4ce3-912d-7b7efac3c625</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">235 346 </_DownRight>
+						<m_nDiagramIndex type="a">24</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">75</m_nLeft>
+								<m_nTop type="a">75</m_nTop>
+								<m_nRight type="a">1409</m_nRight>
+								<m_nBottom type="a">324</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Wysylanie powiadomien</_hclass>
+								<_hname type="a">Animated Animated Wysylanie powiadomien_0</_hname>
+								<_hid type="a">GUID b0939150-8df4-40cc-a0c6-8c5285cac88d</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1297 170 </_DownRight>
+						<m_nDiagramIndex type="a">2</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">25</m_nLeft>
+								<m_nTop type="a">25</m_nTop>
+								<m_nRight type="a">1271</m_nRight>
+								<m_nBottom type="a">383</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Wysylanie powiadomien</_hclass>
+								<_hname type="a">Animated Wysylanie powiadomien</_hname>
+								<_hid type="a">GUID e8cb7332-d0f2-4dc4-bbd7-748c3535d88e</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1209 279 </_DownRight>
+						<m_nDiagramIndex type="a">49</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">0</m_nLeft>
+								<m_nTop type="a">0</m_nTop>
+								<m_nRight type="a">272</m_nRight>
+								<m_nBottom type="a">425</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Wysylanie powiadomien</_hclass>
+								<_hname type="a">Animated Wysylanie powiadomien_0</_hname>
+								<_hid type="a">GUID 2252c397-785c-4f07-a60a-948b581c1577</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">235 346 </_DownRight>
+						<m_nDiagramIndex type="a">33</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">100</m_nLeft>
+								<m_nTop type="a">100</m_nTop>
+								<m_nRight type="a">1434</m_nRight>
+								<m_nBottom type="a">349</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Wysylanie powiadomien</_hclass>
+								<_hname type="a">Animated Wysylanie powiadomien_2</_hname>
+								<_hid type="a">GUID 6627181b-4bc6-4225-8511-c977f2f80a71</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1297 170 </_DownRight>
+						<m_nDiagramIndex type="a">11</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">75</m_nLeft>
+								<m_nTop type="a">75</m_nTop>
+								<m_nRight type="a">416</m_nRight>
+								<m_nBottom type="a">500</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\AirPoll_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Wysylanie powiadomien</_hclass>
+								<_hname type="a">Wysylanie powiadomien</_hname>
+								<_hid type="a">GUID af22a736-7bd5-4d0f-a9df-613c5f9a1e36</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">304 346 </_DownRight>
+						<m_nDiagramIndex type="a">44</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">200</m_nLeft>
+								<m_nTop type="a">200</m_nTop>
+								<m_nRight type="a">391</m_nRight>
+								<m_nBottom type="a">625</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hname type="a">Model1</_hname>
+								<_hid type="a">GUID 2418cc12-ca3a-4c57-9f50-289b40080d35</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">154 366 </_DownRight>
+						<m_nDiagramIndex type="a">43</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+				</IRPYRawContainer>
+			</myViewsWithID>
+			<_fullName type="a">C:\Users\student\Desktop\AirPoll\AirPoll\AirPoll</_fullName>
+			<_selectedPerspective type="a">Advanced</_selectedPerspective>
+			<m_SearchScopeList type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</m_SearchScopeList>
+			<bUsingBrowserCustomView type="a">0</bUsingBrowserCustomView>
+			<bApplyOnDiagrams type="a">0</bApplyOnDiagrams>
+			<liCustomViewIDs type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</liCustomViewIDs>
+			<mapOslcRmCollections type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</mapOslcRmCollections>
+			<favoritesItem type="e">
+				<generation type="a">0</generation>
+				<name type="a">Favorites</name>
+				<idOrFolder type="a">folder</idOrFolder>
+			</favoritesItem>
+			
+		</CGEMdiWorkspace>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

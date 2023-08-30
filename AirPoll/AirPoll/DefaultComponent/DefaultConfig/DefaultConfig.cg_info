@@ -1,0 +1,154 @@
+I-Logix-RPY-Archive version 8.15.0 * 9835550
+
+- m_fileModifyTime = { IRPYRawContainer 
+	- size = 46;
+	- value = "DefaultComponent/DefaultConfig/Aplikacja.cpp" 8.30.2023::14:47:0
+	"DefaultComponent/DefaultConfig/Aplikacja.h" 8.30.2023::14:43:47
+	"DefaultComponent/DefaultConfig/Brama.cpp" 8.27.2023::11:21:39
+	"DefaultComponent/DefaultConfig/Brama.h" 8.27.2023::11:21:39
+	"DefaultComponent/DefaultConfig/Czujnik.cpp" 8.30.2023::14:51:31
+	"DefaultComponent/DefaultConfig/Czujnik.h" 8.29.2023::21:34:42
+	"DefaultComponent/DefaultConfig/Default.cpp" 8.30.2023::14:29:52
+	"DefaultComponent/DefaultConfig/Default.h" 8.30.2023::14:29:52
+	"DefaultComponent/DefaultConfig/DetektorKolizji.cpp" 8.27.2023::13:6:22
+	"DefaultComponent/DefaultConfig/DetektorKolizji.h" 8.27.2023::13:6:22
+	"DefaultComponent/DefaultConfig/Ikona.cpp" 8.29.2023::21:34:42
+	"DefaultComponent/DefaultConfig/Ikona.h" 8.29.2023::21:34:42
+	"DefaultComponent/DefaultConfig/Lampa.cpp" 8.27.2023::13:2:28
+	"DefaultComponent/DefaultConfig/Lampa.h" 8.27.2023::13:2:28
+	"DefaultComponent/DefaultConfig/Modul.cpp" 8.27.2023::11:36:31
+	"DefaultComponent/DefaultConfig/Modul.h" 8.27.2023::11:36:31
+	"DefaultComponent/DefaultConfig/Naped.cpp" 8.27.2023::13:2:28
+	"DefaultComponent/DefaultConfig/Naped.h" 8.27.2023::13:2:28
+	"DefaultComponent/DefaultConfig/Norma.cpp" 8.30.2023::14:51:20
+	"DefaultComponent/DefaultConfig/Norma.h" 8.30.2023::14:49:30
+	"DefaultComponent/DefaultConfig/Odbiornik.cpp" 8.27.2023::13:2:28
+	"DefaultComponent/DefaultConfig/Odbiornik.h" 8.27.2023::13:2:28
+	"DefaultComponent/DefaultConfig/OdbiornikGPS.cpp" 8.30.2023::14:37:56
+	"DefaultComponent/DefaultConfig/OdbiornikGPS.h" 8.30.2023::14:35:15
+	"DefaultComponent/DefaultConfig/Otoczenie.cpp" 8.27.2023::11:21:39
+	"DefaultComponent/DefaultConfig/Otoczenie.h" 8.27.2023::11:21:39
+	"DefaultComponent/DefaultConfig/Paczka.cpp" 8.29.2023::21:34:42
+	"DefaultComponent/DefaultConfig/Paczka.h" 8.29.2023::21:34:42
+	"DefaultComponent/DefaultConfig/Pilot.cpp" 8.27.2023::13:2:28
+	"DefaultComponent/DefaultConfig/Pilot.h" 8.27.2023::13:2:28
+	"DefaultComponent/DefaultConfig/Powiadomienie.cpp" 8.29.2023::21:34:42
+	"DefaultComponent/DefaultConfig/Powiadomienie.h" 8.29.2023::21:34:42
+	"DefaultComponent/DefaultConfig/PowiadomienieOZlymPOW.cpp" 8.27.2023::18:49:23
+	"DefaultComponent/DefaultConfig/PowiadomienieOZlymPOW.h" 8.27.2023::18:49:23
+	"DefaultComponent/DefaultConfig/PowiadomieniePrz.cpp" 8.30.2023::14:52:58
+	"DefaultComponent/DefaultConfig/PowiadomieniePrz.h" 8.30.2023::14:29:52
+	"DefaultComponent/DefaultConfig/Sterownik.cpp" 8.27.2023::13:2:28
+	"DefaultComponent/DefaultConfig/Sterownik.h" 8.27.2023::13:2:28
+	"DefaultComponent/DefaultConfig/User.cpp" 8.27.2023::11:21:39
+	"DefaultComponent/DefaultConfig/User.h" 8.28.2023::18:5:28
+	"DefaultComponent/DefaultConfig/Ustawienia.cpp" 8.27.2023::18:32:56
+	"DefaultComponent/DefaultConfig/Ustawienia.h" 8.27.2023::18:32:56
+	"DefaultComponent/DefaultConfig/Zanieczyszczenia.cpp" 8.27.2023::18:32:56
+	"DefaultComponent/DefaultConfig/Zanieczyszczenia.h" 8.28.2023::18:5:28
+	"DefaultComponent/DefaultConfig/modul.cpp" 8.27.2023::11:41:59
+	"DefaultComponent/DefaultConfig/modul.h" 8.27.2023::11:50:45
+	
+}
+- m_saveUnitAndOwnerSaveUnit = { IRPYRawContainer 
+	- size = 2;
+	- value = "GUID 11188725-abaf-46cd-9330-a1567f66f187" "GUID 73066072-4f00-484d-9e65-78b4dd13cad2"
+	"GUID 7cd46f6d-fda6-4535-870d-0d830b90335b" "GUID 73066072-4f00-484d-9e65-78b4dd13cad2"
+	
+}
+- size = 12;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = "C:\\Users\\student\\Desktop\\AirPoll\\AirPoll\\AirPoll_rpy\\Default.sbsx";
+	- _name = "Default";
+	- _id = GUID 11188725-abaf-46cd-9330-a1567f66f187;
+}
+- genTime = 8.30.2023::14:47:59;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "C:\\Users\\student\\Desktop\\AirPoll\\AirPoll\\AirPoll_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Paczka";
+	- _id = GUID 18be0db1-745e-4554-9134-30609bc1f8a3;
+}
+- genTime = 8.29.2023::21:34:42;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "C:\\Users\\student\\Desktop\\AirPoll\\AirPoll\\AirPoll_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "PowiadomieniePrz";
+	- _id = GUID b266cfd6-d6b8-4489-9f90-7a5954377ceb;
+}
+- genTime = 8.30.2023::14:52:58;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "C:\\Users\\student\\Desktop\\AirPoll\\AirPoll\\AirPoll_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Aplikacja";
+	- _id = GUID 034bba79-36b4-4a20-81c9-00b0f206aba6;
+}
+- genTime = 8.30.2023::14:47:59;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "C:\\Users\\student\\Desktop\\AirPoll\\AirPoll\\AirPoll_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Ikona";
+	- _id = GUID 90a3b616-2d22-4641-80d0-455c412e842f;
+}
+- genTime = 8.29.2023::21:34:42;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "C:\\Users\\student\\Desktop\\AirPoll\\AirPoll\\AirPoll_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Norma";
+	- _id = GUID 37b8d86d-574d-4af0-8a07-f8c4aa678a22;
+}
+- genTime = 8.30.2023::14:51:20;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "C:\\Users\\student\\Desktop\\AirPoll\\AirPoll\\AirPoll_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "OdbiornikGPS";
+	- _id = GUID cf01c14d-6a1d-4b64-899b-89bd00c7716f;
+}
+- genTime = 8.30.2023::14:37:56;
+- hElement = { IHandle 
+	- _m2Class = "IActor";
+	- _filename = "C:\\Users\\student\\Desktop\\AirPoll\\AirPoll\\AirPoll_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "User";
+	- _id = GUID f9d816b5-9384-4955-9be6-2d025a75cac5;
+}
+- genTime = 8.29.2023::21:34:42;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "C:\\Users\\student\\Desktop\\AirPoll\\AirPoll\\AirPoll_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Czujnik";
+	- _id = GUID a4ab1415-b1ee-486f-a528-4eae69e21ab7;
+}
+- genTime = 8.30.2023::14:51:31;
+- hElement = { IHandle 
+	- _m2Class = "ICodeGenConfigInfo";
+	- _filename = "C:\\Users\\student\\Desktop\\AirPoll\\AirPoll\\AirPoll_rpy\\DefaultComponent.cmpx";
+	- _name = "DefaultComponent\\DefaultConfig";
+	- _id = GUID b72dc071-0ad4-40fc-90b5-eae8884ef16d;
+}
+- genTime = 8.30.2023::14:53:33;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "C:\\Users\\student\\Desktop\\AirPoll\\AirPoll\\AirPoll_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Ustawienia";
+	- _id = GUID a2c14b68-4afc-47ab-ab35-cd6df6ec45a0;
+}
+- genTime = 8.29.2023::21:34:42;
+- hElement = { IHandle 
+	- _m2Class = "IActor";
+	- _filename = "C:\\Users\\student\\Desktop\\AirPoll\\AirPoll\\AirPoll_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Zanieczyszczenia";
+	- _id = GUID 44e8138e-c759-41c5-9063-cab1df117bd5;
+}
+- genTime = 8.29.2023::21:34:42;
+
